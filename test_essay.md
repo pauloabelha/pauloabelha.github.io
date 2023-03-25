@@ -1,0 +1,4 @@
+# Homeopathy
+
+## Pesudoscience
+
