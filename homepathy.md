@@ -8,6 +8,7 @@ Medicine in the 18th century was no joke. If you want, search for bloodletting o
 
 During the COVID-19 pandemic, I met people who were pro-Science and pro-Homeopathy. People with vigorous stances on the importance of following guidelines from scientific and governmental institutions. For many countries, these same institutions would consider homeopathy to be in the realm of pseudoscience and outside the scope of public funding and serious consideration. What to make of it? We should get vaccinated because reputable scientific institutions have an immense body of evidence for its efficacy and importance. But, when they tell us homeopathy is pseudoscience, we can disregard that and choose to continue to support homeopathic paractice. Can we have it both ways?
 
+I do not intend the last paragraph as a rhetorical device. I do believe this question opens up an itneresting line of thinking. Well, top-of-mind hypothetical answers would be: People are distracted. They haven't stopped to think about it deeply. Some countries do have a scientific culture trying to justify Homeopathy. Religious root linking Homeopathy personal  faith and thus outside the overall cultura scientific culture surrounding the individual. Perhaps for some, the fight for following governmental guidelines was tied more strongly to a political view than to a scientific one (left being pro vaccine; and right, anti-vax). 
 
 
 
