@@ -1,7 +1,74 @@
-.row {
-  display: flex;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-.column {
-  flex: 50%;
+.container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 20px auto;
 }
+
+.left-column {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.right-column {
+  flex: 2;
+}
+
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#essayContent {
+  margin-top: 20px;
+}
+
+/* Style for essay content converted from Markdown */
+#essayContent h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+#essayContent h2 {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+#essayContent h3 {
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+#essayContent p {
+  margin-bottom: 12px;
+}
+
+#essayContent li {
+  margin-bottom: 8px;
+}
+
+
