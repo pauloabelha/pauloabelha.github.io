@@ -1,15 +1,44 @@
-<!doctype html>
-<html>
-  <head>
-    <body>
-      <div class="row">
-        <div style="width: 20%; float:left">
-          Column 1
-        </div>        
-        <div style="width: 80%; float:right">
-          Column 2
-        </div>
-      </div>      
-    </body>  
-  </head>  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Essays</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="left-column">
+      <h2>Essay Links</h2>
+      <ul>
+        <li><a href="#" onclick="loadEssay('essay1.md')">Essay 1</a></li>
+        <li><a href="#" onclick="loadEssay('essay2.md')">Essay 2</a></li>
+        <!-- Add more essay links here -->
+      </ul>
+    </div>
+    <div class="right-column" id="essayContent">
+      <h2>Essay Content</h2>
+      <p>Select an essay from the left column to read.</p>
+    </div>
+  </div>
+
+  <script>
+    function loadEssay(filename) {
+      const xhr = new XMLHttpRequest();
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+          if (xhr.status === 200) {
+            const essayContent = xhr.responseText;
+            document.getElementById('essayContent').innerHTML = marked(essayContent);
+          } else {
+            document.getElementById('essayContent').innerHTML = 'Error loading the essay.';
+          }
+        }
+      };
+      xhr.open('GET', 'essays/' + filename, true);
+      xhr.send();
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</body>
 </html>
