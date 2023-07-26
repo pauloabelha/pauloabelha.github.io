@@ -1,3 +1,5 @@
+import marked from 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
+
 function loadEssay(filename) {
   console.log(typeof marked);
   const xhr = new XMLHttpRequest();
