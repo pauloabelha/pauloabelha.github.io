@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (xhr.readyState === XMLHttpRequest.DONE) {
       if (xhr.status === 200) {
         const essayContent = xhr.responseText;
-        document.getElementById('essayContent').innerHTML = marked(essayContent);
+        document.getElementById('essayContent').innerHTML = window.marked(essayContent);
       } else {
         document.getElementById('essayContent').innerHTML = 'Error loading the essay.';
       }
