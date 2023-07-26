@@ -10,8 +10,8 @@
   <div class="container">
     <div class="left-column">
       <h2>Essay Links</h2>
-      <ul>
-        <li><a href="#" onclick="loadEssay('homeopathy.md')">Homeopathy</a></li>
+      <ul id="essayLinks">
+        <li><a href="#" data-essay="homeopathy.md">Homeopathy</a></li>
         <!-- Add more essay links here -->
       </ul>
     </div>
@@ -21,7 +21,7 @@
     </div>
   </div>
 
-  <!-- Move the script tags to the bottom of the body element -->
+  <!-- Scripts are loaded at the bottom of the body element -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="script.js"></script>
 </body>
