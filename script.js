@@ -1,3 +1,4 @@
+// https://stackoverflow.com/questions/34607252/es6-import-module-from-url
 import marked from 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
 
 function loadEssay(filename) {
