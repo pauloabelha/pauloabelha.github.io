@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (xhr.readyState === XMLHttpRequest.DONE) {
         if (xhr.status === 200) {
           const essayContent = xhr.responseText;
-          document.getElementById('essayContent').innerHTML = window.marked(essayContent);
+          document.getElementById('essayContent').innerHTML = marked(essayContent);
         } else {
           document.getElementById('essayContent').innerHTML = 'Error loading the essay.';
         }
@@ -15,6 +15,15 @@ document.addEventListener('DOMContentLoaded', function() {
     xhr.open('GET', 'essays/' + filename, true);
     xhr.send();
   }
+
+  // Event delegation to handle click events on essay links
+  document.getElementById('essayLinks').addEventListener('click', function(event) {
+    if (event.target.tagName === 'A') {
+      event.preventDefault();
+      const essayFilename = event.target.dataset.essay;
+      loadEssay(essayFilename);
+    }
+  });
 
   // The rest of your code (if any) goes here
   // ...
