@@ -1,7 +1,6 @@
 function loadEssay(filename) {
-  console.log(typeof marked);
   const xhr = new XMLHttpRequest();
-  xhr.onreadystatechange = function() {
+  xhr.onreadystatechange = function () {
     if (xhr.readyState === XMLHttpRequest.DONE) {
       if (xhr.status === 200) {
         const essayContent = xhr.responseText;
