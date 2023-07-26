@@ -1,4 +1,6 @@
-function loadEssay(filename) {
+document.addEventListener('DOMContentLoaded', function() {
+  // Your code here, including the loadEssay function
+  function loadEssay(filename) {
   const xhr = new XMLHttpRequest();
   xhr.onreadystatechange = function() {
     if (xhr.readyState === XMLHttpRequest.DONE) {
@@ -13,3 +15,6 @@ function loadEssay(filename) {
   xhr.open('GET', 'essays/' + filename, true);
   xhr.send();
 }
+});
+
+
