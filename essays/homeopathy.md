@@ -11,15 +11,15 @@ Medicine in the 18th century was no joke, just search for bloodletting or purgin
 During the COVID-19 pandemic, I met people who were pro-Science and pro-homeopathy. People with vigorous stances on the importance of following guidelines from scientific and governmental institutions. For many countries, these same institutions would consider homeopathy to be in the realm of pseudoscience and outside the scope of public funding and serious consideration. What to make of it? We should get vaccinated because reputable scientific institutions have an immense body of evidence for its efficacy and importance. But, when they tell us homeopathy is pseudoscience, we can disregard that and choose to continue to support homeopathic paractice. Can we have it both ways?
 
 I do not intend the last paragraph to be a rhetorical device. I do believe this question opens up an interesting line of thinking. How can we conciliate a mind that believes in homeopathy, but also believes that we should follow scientific institutional guidelines for vaccination? Well, top-of-mind hypothetical answers could be:
-1) The mind is distracted and has not had the time to confront these two positions;
-2) Some cultures might have homeopathy be part of scientific institutions and thus there would be no contradiction;
-3) Homeopathy could be seen as a personal faith-based choice and thus shielded from the scientific culture surrounding the individual
-4) Perhaps for some, the fight for following governmental guidelines is tied more strongly to a political view than to a scientific one (left being pro vaccine; and right, anti-vax).
+1) The mind has not had the opportunity to confront these two positions;
+2) The mind has had the opportunity, but there is negative value associated to letting go of one belief as it might be attached to strong emotional memories;
+3) Some cultures might have homeopathy be part of scientific discourse and thus there would be no contradiction;
+4) Homeopathy could be seen as a personal faith-based choice and thus shielded from the scientific culture surrounding the individual
+5) Perhaps for some, the fight for following governmental guidelines is tied more strongly to a political view than to a scientific one (left being pro vaccine; and right, anti-vax).
+
+There seems to be then two threads: one relates to the mind not having had the opportunity of pursuing conciliation; and the other, on creating a priori divisions within the mind, where certain ideas are not to be confronted with others. The first thread 
 
 
 
 
 
-
-1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1676328/
-2. 
