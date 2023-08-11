@@ -17,6 +17,13 @@ I do not intend the last paragraph to be a rhetorical device. I do believe this 
 4) Homeopathy could be seen as a personal faith-based choice and thus shielded from the scientific culture surrounding the individual
 5) Perhaps for some, the fight for following governmental guidelines is tied more strongly to a political view than to a scientific one (left being pro vaccine; and right, anti-vax).
 
+We can think of two axes: opportunity and motivation.
+- Low opportunity and low motivation:
+- Low opportunity and high motivation:
+- High opportunity and low motivation:
+- High opportunity and high motivation: When both are high, the mind has enough volition to conciliate positions. 
+
+
 There seems to be then two threads: one relates to the mind not having had the opportunity of pursuing conciliation; and the other, on creating a priori divisions within the mind, where certain ideas are not to be confronted with others. The first thread 
 
 
