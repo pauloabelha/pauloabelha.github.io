@@ -17,9 +17,11 @@ I do not intend the last paragraph to be a rhetorical device. I do believe this 
 4) Homeopathy could be seen as a personal faith-based choice and thus shielded from the scientific culture surrounding the individual
 5) Perhaps for some, the fight for following governmental guidelines is tied more strongly to a political view than to a scientific one (left being pro vaccine; and right, anti-vax).
 
-We can think of two axes: opportunity and motivation.
-- Low opportunity and low motivation:
-- Low opportunity and high motivation:
+We can think of two axes: opportunity and motivation. For instance, cultures where homeopathy is part of institutional scientific discourse (sometimes even scientific) lead to fewer opportunities of discrepancies since homeopathy is already assimilated into scientific discourse. Another example of low opportunity is of successful applications of homeopathy during one's childhood or running through stories around the family. 
+
+
+- Low opportunity and low motivation: 
+- Low opportunity and high motivation: 
 - High opportunity and low motivation:
 - High opportunity and high motivation: When both are high, the mind has enough volition to conciliate positions. 
 
