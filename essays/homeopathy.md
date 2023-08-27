@@ -45,7 +45,9 @@ vivendo experiencia com a Maya q o estudo comprovavam
 p ex usar remédio nao pode dar no mesmo 
 quando mororu fora, resfriado nao levava a ir no medico 
 ou seja, intervencao menor e passa mesmo assim
-
+aprendeu sobre as varias falacias ou efeitos placebos ou regressao aa media 
+questao da dikuicao esdruxula nao pegaria pq nao confiaria na instiucao docuemtnacao oficial de homeopatia
+ 
 
 
 
