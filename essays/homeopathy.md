@@ -30,5 +30,25 @@ There seems to be then two threads: one relates to the mind not having had the o
 
 
 
+ju
+grupo preseceve osteopatia 
+ju acha estranho. alemmdosnlimites do razoavel, cientiico...
+p ex homeopatia eh mais inofensivo, mas esse arpesentava risco estranho, intrusivo
+foi pesquisar osteopatia de acordo com instiuicoes cientificas
+foi ver no nhs, q oferecia acuountura 
+caiu numa wikipedoa q comparava homeopatia com oseopatia 
+nhs nao oferecia mais
+foi ler mais sobre homeopatia em si e viu estudos do nhs 
+p ex encomenda de gande survey de homeopatia e concluiu que nao tem efeito 
+argumentos fos esfudos foram importanes
+vivendo experiencia com a Maya q o estudo comprovavam
+p ex usar remédio nao pode dar no mesmo 
+quando mororu fora, resfriado nao levava a ir no medico 
+ou seja, intervencao menor e passa mesmo assim
+
+
+
+
+
 
 
