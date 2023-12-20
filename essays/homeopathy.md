@@ -12,10 +12,13 @@ Fast forward over two hundred years and, during the COVID-19 pandemic, I met peo
 
 I do not intend the last paragraph to be a rhetorical device. I do believe this question opens up an interesting line of thinking. How can we conciliate a mind that believes in homeopathy, but also believes that we should follow scientific institutional guidelines for vaccination? Well, top-of-mind hypothetical answers could be:
 1) The mind has not had the opportunity to confront these two positions;
-2) The mind has had the opportunity, but there is negative value associated to letting go of one belief as it might be attached to strong emotional memories;
+2) The mind has had the opportunity, but there is negative value associated to letting go of one's belief as it might be attached to strong emotional memories;
 3) Some cultures might have homeopathy be part of scientific discourse and thus there would be no contradiction;
 4) Homeopathy could be seen as a personal faith-based choice and thus shielded from the scientific culture surrounding the individual
 5) Perhaps for some, the fight for following governmental guidelines is tied more strongly to a political view than to a scientific one (left being pro vaccine; and right, anti-vax).
+
+# 3 is in the realm of not having contradiction
+# 2 and 5 are the same
 
 We can think of two axes: opportunity and motivation. For instance, cultures where homeopathy is part of institutional scientific discourse (sometimes even scientific) lead to fewer opportunities of discrepancies since homeopathy is already assimilated into scientific discourse. Another example of low opportunity is of successful applications of homeopathy during one's childhood or running through stories around the family. 
 
