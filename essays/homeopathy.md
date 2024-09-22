@@ -20,6 +20,12 @@ I do not intend the last paragraph to be a rhetorical device. I do believe this 
 # 3 is in the realm of not having contradiction
 # 2 and 5 are the same
 
+If we think of the mind as an ecosystem of ideas, it is possible 
+that some of these ideas are not sufficient to encoutner 
+a contradiction
+values in ideas  
+
+
 We can think of two axes: opportunity and motivation. For instance, cultures where homeopathy is part of institutional scientific discourse (sometimes even scientific) lead to fewer opportunities of discrepancies since homeopathy is already assimilated into scientific discourse. Another example of low opportunity is of successful applications of homeopathy during one's childhood or running through stories around the family. 
 
 
