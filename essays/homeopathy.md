@@ -1,4 +1,4 @@
-# Homeopathy, allodoxia
+# Homeopathy and Other Species
 
 How is it that two completely contradictory beliefs can coexist in the same mind without causing friction? Think of the person who gets a flu shot in the morning, trusting in science and vaccines, and later, when faced with a cold, reaches for a homeopathic remedy. It seems like there should be an internal conflict brewing, but there’s none. How do beliefs that sit on opposite ends of the scientific spectrum manage to live together so peacefully?
 
