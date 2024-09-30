@@ -1,4 +1,4 @@
-# Homeopathy
+# Homeopathy, Allodoxia
 
 This isn’t an essay on the scientific validity of homeopathy. I have no interest in trying to convince people to stop using it or in satisfying those who already dismiss it as pseudoscience. That debate, while important to some, misses a deeper issue that intrigues me more: how we compartmentalize our beliefs in such a way that seemingly contradictory worldviews coexist in harmony.
 
