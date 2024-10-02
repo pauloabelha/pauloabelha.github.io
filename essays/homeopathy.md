@@ -1,6 +1,6 @@
 # Homeopathy and Other Species
 
-Some stand by homeopathy; others dismiss it as pseudoscience. Here I focus on monds where both coexist.
+Some stand by homeopathy; others dismiss it as pseudoscience. Here I focus on minds where both coexist.
 
 This isn’t an essay about whether homeopathy works. I’m not here to persuade anyone to abandon it, nor am I interested in validating the views of those who see it as pseudoscience. That debate, while it has its place, seems to miss the broader point. What I want to explore is how homeopathy, like astrology, osteopathy, and similar beliefs, fits into the complex ecosystem of our minds—an ecosystem where logic and belief don’t always compete, but can sometimes coexist in unexpected harmony.
 
