@@ -4,7 +4,7 @@ There are people who swear by homeopathy;
 others stand firmly with science.
 In some minds both ideas coexist, somehow finding harmony. 
 During the pandemic, I encountered people who were staunch supporters of science
-- those who trusted vaccines, adhered to public health guidelines,
+-those who trusted vaccines, adhered to public health guidelines,
 and respected institutions like the CDC and WHO.
 Yet some of them swore by homeopathy.
 Here’s the puzzle:
