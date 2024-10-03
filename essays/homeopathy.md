@@ -1,8 +1,16 @@
 # Homeopathy and Other Species
 
-There are people who swear by homeopathy; others stand firmly with science. In some minds both ideas coexist, somehow finding harmony. 
-
-During the pandemic, I encountered people who were staunch supporters of science—those who trusted vaccines, adhered to public health guidelines, and respected institutions like the CDC and WHO. Yet some of these same individuals also swore by homeopathy. Here’s the puzzle: how can someone hold these seemingly contradictory positions—trusting scientific institutions that reject homeopathy, while also putting faith in homeopathy—without experiencing cognitive dissonance?
+There are people who swear by homeopathy;
+others stand firmly with science.
+In some minds both ideas coexist, somehow finding harmony. 
+During the pandemic, I encountered people who were staunch supporters of science
+- those who trusted vaccines, adhered to public health guidelines,
+and respected institutions like the CDC and WHO.
+Yet some of them swore by homeopathy.
+Here’s the puzzle:
+how can someone trust scientific institutions
+that reject homeopathy, while still believe in it
+without feeling any internal conflict?
 
 Maybe we’ve been thinking about beliefs too narrowly. We often assume that beliefs are either true or false, supported by evidence or not, and that those which don’t measure up should naturally fall away. But this view oversimplifies how our minds actually work. What if, instead of imagining the mind as a strictly rational machine, we thought of it as a kind of ecosystem? In this mental ecosystem, ideas behave like species. Some are robust and thrive through direct competition. Others are more delicate, finding sheltered niches where they persist without having to face the scrutiny of logic or evidence.
 
