@@ -1,6 +1,6 @@
 # Homeopathy and Other Species
 
-There are people who swear by homeopathy; others stand firmly with science. In some of those minds, both ideas coexist, and somehow find harmony. 
+There are people who swear by homeopathy; others stand firmly with science. In some minds both ideas coexist, somehow finding harmony. 
 
 During the pandemic, I encountered people who were staunch supporters of science—those who trusted vaccines, adhered to public health guidelines, and respected institutions like the CDC and WHO. Yet some of these same individuals also swore by homeopathy. Here’s the puzzle: how can someone hold these seemingly contradictory positions—trusting scientific institutions that reject homeopathy, while also putting faith in homeopathy—without experiencing cognitive dissonance?
 
