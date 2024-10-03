@@ -4,7 +4,7 @@ There are people who swear by homeopathy;
 others stand firmly with science.
 In some minds both ideas coexist, somehow finding harmony. 
 During the pandemic, I encountered people who were staunch supporters of science
--they undersrood vaccines, adhered to public health guidelines,
+-they understood vaccines, adhered to public health guidelines,
 and respected scientific institutions.
 Yet some of them also swore by homeopathy.
 How can a mind harbor both positions
