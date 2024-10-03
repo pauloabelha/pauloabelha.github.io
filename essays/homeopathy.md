@@ -1,9 +1,6 @@
 # Homeopathy and Other Species
 
-Some swear by homeopathy; others reject it for science. There are those where both positions somehow live in harmony.
-Someone can be pro-science for most issues, but still take homeopathy seriously.
-If we stand strict on evidence-based medicine, hoemopathy is a pseudoscience.
-
+There are people who swear by homeopathy; others stand firmly with science. In some of those minds, both ideas coexist, finding nothing but harmony. 
 
 During the pandemic, I encountered people who were staunch supporters of science—those who trusted vaccines, adhered to public health guidelines, and respected institutions like the CDC and WHO. Yet some of these same individuals also swore by homeopathy. Here’s the puzzle: how can someone hold these seemingly contradictory positions—trusting scientific institutions that reject homeopathy, while also putting faith in homeopathy—without experiencing cognitive dissonance?
 
