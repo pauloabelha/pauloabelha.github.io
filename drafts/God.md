@@ -1,16 +1,25 @@
-This will be an interesting one to write.. :)
+# God
 
-Idealism: Reality is Mind (Genesis as mind from Joscha Bach)
+## Introduction: Setting the Stage
+- **Opening thought**: This essay will explore complex ideas about God, metaphysics, and human understanding.
+- **Hint of direction**: We'll dive into idealism, dualism, and the challenges of discussing God.
 
-Dualism: There are two worlds. One of these worlds it the one we deal with everyday. The other, is the super-natural one.
-Dividing the world into to two, BUT LETTING one world influecne another is building a bridge between both worlds and, thus, having one world that has two subworld and a bridge.
-We should then be able to study the bridge etc.
+## Idealism: Reality as Mind
+- **Concept of Idealism**: Reality is fundamentally mental, as opposed to physical.
+- **Joscha Bach's interpretation**: Genesis as a narrative of mind creating reality.
+- **Implication**: If reality is mind, then God could be seen as the fundamental Mind behind all existence.
 
-God is Silence, but you cannot bring that Silence back and have God have norms on how to live. Many people make this mistake
+## Dualism: Two Worlds with a Bridge
+- **Definition of dualism**: The belief that reality is divided into two realms—the physical (material) world and the supernatural (spiritual) world.
+- **The bridge**: Some forms of dualism allow for interaction between these two realms, creating a connection.
+  - **Bridge analogy**: If there's a bridge between these worlds, we can study it. This creates an interplay between the supernatural and the everyday.
+  - **Single reality**: Dualism with a bridge creates a world with two subworlds rather than two isolated worlds.
+- **Philosophical implication**: Studying this bridge would offer insight into how the divine influences the physical world.
 
-gentoo penguins essay 
-Why qre Gentoo penguins the fastest penguins?
-the essay is actually about very specific questions that
-humanity sets out to answer. We can be anxious about answering mant questions
-whats the values of answering these: find brqnches of 
-answers that connect to other questions and abstract
+## God as Silence
+- **Silence as God**: God could be understood as Silence—pure, ungraspable, beyond description.
+- **The mistake**: Many people try to bring this Silence back into the world with concrete norms or rules for living, which might distort the essence of the divine.
+- **Philosophical problem**: Once Silence (God) is framed in human terms, it’s no longer Silence but something else entirely.
+
+
+
