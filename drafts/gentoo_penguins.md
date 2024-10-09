@@ -5,8 +5,6 @@ On land, Gentoo penguins are awkward, waddling around in a way that almost seems
 
 At first, this seems like a niche question—something a marine biologist might ponder, but not the sort of thing that keeps most of us up at night. But if you take a closer look, there’s more here than meets the eye. The penguins’ speed, their anatomy, their behavior—it’s all the result of evolutionary pressures. That’s what makes it interesting. Evolution doesn’t care about aesthetics or grace; it cares about survival. Gentoo penguins swim fast because it gives them a competitive edge in their environment. The real question isn’t why Gentoo penguins are fast; it’s why anything evolves to be optimal.
 
-# Why Are Gentoo Penguins the Fastest Underwater Birds?
-
 ## Introduction: Setting up the specific question
 - **Gentoo penguins’ speed**: Noting the contrast between their clumsiness on land and grace in water.
 - **Core question**: *Why are Gentoo penguins the fastest underwater birds?*
