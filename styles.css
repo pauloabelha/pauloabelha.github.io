@@ -20,6 +20,11 @@ body {
   flex: 2;
 }
 
+p {
+  font-size: 20px; /* Adjust to your desired size */
+  line-height: 1.6; /* Optionally set a line height for readability */
+}
+
 h2 {
   border-bottom: 2px solid #333;
   padding-bottom: 5px;
