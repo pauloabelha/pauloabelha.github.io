@@ -8,3 +8,6 @@ jus as with a game where for a cahracter in the game
 she might feel there's a sharp transition between her game ralitt and 
 base reality
 but in truth it's all one level
+
+how could i character learn about the physics of its world
+knowledge it can gain is initially tied to ots sensors and actions avilable to it
