@@ -11,6 +11,10 @@ How can a mind harbor both positions
 without feeling any internal conflict?
 
 If you are unmoved by this question, you might think it is obvious that humans hold contradictory beliefs. 
+but try thinking through it for a moment and tou will realize
+that in fact those who hold contradiftort beliefs do so
+by actually not accomodating them as contradictory at all
+Both beliefs coexist, apparently without mucb friction.
 
 Maybe we’ve been thinking about beliefs too narrowly. We often assume that beliefs are either true or false, supported by evidence or not, and that those which don’t measure up should naturally fall away. But this view oversimplifies how our minds actually work. What if, instead of imagining the mind as a strictly rational machine, we thought of it as a kind of ecosystem? In this mental ecosystem, ideas behave like species. Some are robust and thrive through direct competition. Others are more delicate, finding sheltered niches where they persist without having to face the scrutiny of logic or evidence.
 
