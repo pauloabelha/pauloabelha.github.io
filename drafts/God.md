@@ -1,5 +1,12 @@
 # God
 
+The problem of 'Semantic importation'
+
+The 'paradox' of interesting numbers. If we try o classify natural numbers as interesting or uninteresting, any uninsteresting set will have a smallest number, which makes it interesting.
+Therefore, either a natural number is interesting, or it is the smallest interesting number of an uninteresting set, but this will lead to all numbers beign interesting.
+The trick here is semantic importatn, where 'interesting' is being used ina very narrow sense 'the exact sense that it is the smallest natural numebr of a set', but
+whenwe say all numbers are itneresting we might forget this and then use interesting in a mroe broad sense. Thus we are workign with two semantics for interesting.
+
 ## Introduction: Setting the Stage
 - **Opening thought**: This essay will explore complex ideas about God, metaphysics, and human understanding.
 - **Hint of direction**: We'll dive into idealism, dualism, and the challenges of discussing God.
