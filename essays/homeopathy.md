@@ -1,6 +1,6 @@
 # Homeopathy and Other Species
 
-Some people who swear by homeopathy;
+Some people swear by homeopathy;
 others stand firmly with science.
 But there are minds where both ideas coexist in harmony. 
 I have met people who are staunch supporters of science -- they understand vaccines, adhere to public health guidelines
