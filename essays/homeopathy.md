@@ -10,7 +10,7 @@ How can a mind harbor both positions
 without feeling any internal conflict?
 
 If you are unmoved by this question, you might think it is obvious that humans hold contradictory beliefs. 
-Yes, but we do not think it is raining _and_ that the sky is clear.
+Ok, but we do not think it is raining _and_ that the sky is clear.
 So, the interesting point is how can our minds hold seemingly contradictory beliefs, such as being pro-science and a believer in homeopathy.
 Is it just because these beliefs are more complex, and that two complex things can never be in complete direct conflict?
 
