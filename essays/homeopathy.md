@@ -12,7 +12,7 @@ without feeling any internal conflict?
 If you are unmoved by this question, you might think it is obvious that humans hold contradictory beliefs. 
 Ok, but we do not think it is raining _and_ that the sky is clear.
 So, the interesting point is how can our minds hold seemingly contradictory beliefs, such as being pro-science and a believer in homeopathy.
-Is it just because these beliefs are more complex, and that two complex things can never be in complete direct conflict?
+Is it just because these beliefs are more complex, and that two complex things can never be in complete direct conflict? Or is there something more to it?
 
 Perhaps we’ve been thinking about beliefs too narrowly. We often assume that beliefs are either true or false, supported by evidence or not, and that those which don’t measure up should naturally fall away. But this view oversimplifies how our minds actually work. What if, instead of imagining the mind as a strictly rational machine, we thought of it as a kind of ecosystem? In this mental ecosystem, ideas behave like species. Some are robust and thrive through direct competition. Others are more delicate, finding sheltered niches where they persist without having to face the scrutiny of logic or evidence.
 
