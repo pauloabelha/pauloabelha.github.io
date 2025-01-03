@@ -7,6 +7,7 @@ How can one hold both positions without feeling any internal conflict?
 Usual responses might be that homeopathy is in fact theoretically and empirically valid and it is just a matter of not have been integrated into mainstream science yet.
 Actualy, in many countries, homeopathy is part of mainstream medical practice, often being suggested as treatment alongside standard scientific options.
 I personally think this explains the majority of people holding both positions together.
+
 However, we would still need to explain how would people still hold on to their homeopathy belief even in the face of evidence from respected scientific institutions and general understanding of current scientific knowledge. 
 We might just dismiss this as assuming that that humans can hold contradictory beliefs and that's it.
 Ok, but we do not think it is raining _and_ that the sky is clear.
