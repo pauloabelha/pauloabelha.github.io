@@ -1,6 +1,6 @@
-# God
+# God has been Smuggled
 
-The problem of 'Semantic importation'
+The problem of 'Semantic smuggling'
 
 The 'paradox' of interesting numbers. If we try o classify natural numbers as interesting or uninteresting, any uninsteresting set will have a smallest number, which makes it interesting.
 Therefore, either a natural number is interesting, or it is the smallest interesting number of an uninteresting set, but this will lead to all numbers beign interesting.
