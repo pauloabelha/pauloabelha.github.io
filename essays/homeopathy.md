@@ -1,5 +1,14 @@
 # Homeopathy and Other Species
 
+I have a friend who is a staunch supporter of
+Science, but she also used to believe in Homeopathy.
+To any reasonable degree, there is scientific 
+consensus that Homeopathy has no effect. Commonsense
+grounded on basic acientific reasoning would also
+ indicate that it doesnt make much sense.
+
+
+
 Some swear by homeopathy; others dismist it as pseudoscience.
 But there are people in the intersection, who are supporters of science and scientific institutions, but also believe in and apply homeopathy in their daily lives.
 How can one hold both positions without feeling any internal conflict?
