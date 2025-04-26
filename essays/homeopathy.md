@@ -8,7 +8,7 @@ I used to think that was all it took — that contradiction was a knot waiting f
 
 But a friend of mine taught me otherwise.
 
-She’s always supported science. She defended vaccines, trusted research, followed evidence.
+She’s always supported science. She trusted research, followed evidence, defended vaccines.
 And yet, for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work, and despite the basic reasoning that makes it implausible.
 
 How can someone hold both positions without feeling any internal conflict?
