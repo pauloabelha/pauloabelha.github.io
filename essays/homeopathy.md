@@ -1,6 +1,6 @@
 # Homeopathy and Other Species
 
-I have a friend who has always been a supporter of science. Yet for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work, and the fact that commonsense reasoning suggests it’s implausible.
+I have a friend who's always supported science. Yet for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work and careful reasoning suggesting it’s implausible.
 
 
 Some swear by homeopathy; others dismist it as pseudoscience.
