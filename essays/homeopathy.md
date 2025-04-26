@@ -1,10 +1,10 @@
 # Homeopathy and Other Species
 
-’ve always been fascinated by contradictions.
+I've always been fascinated by contradictions.
 
-We all know they make us human — but most of the time, we don’t even feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Some unravel when exposed to evidence or thought.
+We all know they make us human — but most of the time, we don’t _feel_ them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Some do unravel when exposed to evidence or thought.
 
-I used to think that was all it took — that contradictions were just waiting for better reasoning to come along.
+I used to think that was all it took — that contradictions were just waiting for better reasoning or evidence.
 
 But a friend of mine taught me otherwise.
 
