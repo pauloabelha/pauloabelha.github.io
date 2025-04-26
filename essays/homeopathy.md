@@ -1,12 +1,6 @@
 # Homeopathy and Other Species
 
-I have a friend who is a staunch supporter of
-Science, but she also used to believe in Homeopathy.
-To any reasonable degree, there is scientific 
-consensus that Homeopathy has no effect. Commonsense
-grounded on basic acientific reasoning would also
- indicate that it doesnt make much sense.
-
+I have a friend who has always been a supporter of science. Yet for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work, and the fact that commonsense reasoning suggests it’s implausible.
 
 
 Some swear by homeopathy; others dismist it as pseudoscience.
