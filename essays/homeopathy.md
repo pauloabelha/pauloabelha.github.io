@@ -4,7 +4,7 @@ I've always been fascinated by contradictions.
 
 We all know they make us human — but most of the time, we don’t _feel_ them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Some do unravel when exposed to evidence or thought.
 
-I used to think contradiction were just waiting for better reasoning — that once the evidence showed up, they'd collapse.
+I used to think that was all it took — that contradiction was a knot waiting for reasoning to untangle it.
 
 But a friend of mine taught me otherwise.
 
