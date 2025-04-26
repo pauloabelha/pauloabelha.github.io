@@ -1,9 +1,13 @@
 # Homeopathy and Other Species
 
-I’ve always been fascinated by contradictions. We all know they make us human — but they are never too glaring. They live inside us, but we do not go 
-through life feeling theri tension all the time, and some are actually resolved when exposed.
-I used to think they were just waiting for evidence or better reasoning to come along.
+’ve always been fascinated by contradictions.
+
+We all know they make us human — but most of the time, we don’t even feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Some unravel when exposed to evidence or thought.
+
+I used to think that was all it took — that contradictions were just waiting for better reasoning to come along.
+
 But a friend of mine taught me otherwise.
+
 She’s always supported science. She defended vaccines, trusted research, followed evidence.
 And yet, for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work, and despite the basic reasoning that makes it implausible.
 
