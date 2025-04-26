@@ -5,10 +5,7 @@ How can one hold both positions without feeling any internal conflict?
 
 Some might believe that homeopathy has simply been overlooked by mainstream science, but remains a respectable body of knowledge. This view isn't entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. This probably explains why most people feel no conflict. But even then, why do people continue to hold on to homeopathy, even when presented with strong evidence of its scientific flaws? The same person might fully support pro-mask policies during the pandemic, trusting the authority of health institutions — yet resist or dismiss those same institutions when they reject homeopathy.
 
-We might just dismiss this as assuming that that humans can hold contradictory beliefs and that's it.
-Ok, but we do not think it is raining _and_ that the sky is clear.
-So, the interesting point is how can our minds hold on to seemingly contradictory beliefs, such as being pro-science and a believer in homeopathy.
-Is it just because these beliefs are more complex, and that two complex things can never be in complete direct conflict? Or is there something more to it?
+We might be tempted to dismiss this by saying that humans can simply hold contradictory beliefs. But that feels too easy. After all, we don’t believe it’s raining and that the sky is clear at the same time. So what allows our minds to hold certain contradictions without discomfort — like being pro-science while also believing in homeopathy? Is it just that complex ideas rarely come into direct collision? Or is there something deeper at work?
 
 Perhaps we’ve been thinking about beliefs too narrowly. We often assume that beliefs are either true or false, supported by evidence or not, and that those which don’t measure up should naturally fall away. But this view oversimplifies how our minds actually work. What if, instead of imagining the mind as belief machine, we thought of it as a kind of ecosystem? In this mental ecosystem, ideas behave like species. Some are robust and thrive through direct competition. Others are more delicate, finding sheltered niches where they persist without having to face the scrutiny of logic or evidence.
 
