@@ -1,17 +1,10 @@
 # Homeopathy and Other Species
 
 I have a friend who's always supported science. Yet for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work and careful reasoning suggesting it’s implausible.
-
-
-Some swear by homeopathy; others dismist it as pseudoscience.
-But there are people in the intersection, who are supporters of science and scientific institutions, but also believe in and apply homeopathy in their daily lives.
 How can one hold both positions without feeling any internal conflict?
 
-Usual responses might be that homeopathy is in fact theoretically and empirically valid and it is just a matter of not have been integrated into mainstream science yet.
-Actualy, in many countries, homeopathy is part of mainstream medical practice, often being suggested as treatment alongside standard scientific options.
-I personally think this explains the majority of people holding both positions together.
+Some might believe that homeopathy has simply been overlooked by mainstream science, but remains a respectable body of knowledge. This view isn't entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. This probably explains why most people feel no conflict. But even then, why do people continue to hold on to homeopathy, even when presented with strong evidence of its scientific flaws? The same person might fully support pro-mask policies during the pandemic, trusting the authority of health institutions — yet resist or dismiss those same institutions when they reject homeopathy.
 
-However, we would still need to explain how would people still hold on to their homeopathy belief even in the face of evidence from respected scientific institutions and general understanding of current scientific knowledge. 
 We might just dismiss this as assuming that that humans can hold contradictory beliefs and that's it.
 Ok, but we do not think it is raining _and_ that the sky is clear.
 So, the interesting point is how can our minds hold on to seemingly contradictory beliefs, such as being pro-science and a believer in homeopathy.
