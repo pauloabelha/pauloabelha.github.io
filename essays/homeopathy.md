@@ -1,9 +1,13 @@
 # Homeopathy and Other Species
 
-I am fascinated by contradictions. We all know they make us humans, but why do they lurk inside us for so long? And why are some of them resolved?
-I used to think they were waiting for evidence, or reasoning, but a friend of mine taught me otherwise. 
-She's always been a supported science. Yet for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work and careful reasoning suggesting it’s implausible.
-How can one hold both positions without feeling any internal conflict?
+I’ve always been fascinated by contradictions. We all know they make us human — but they are never too glaring. They live inside us, but we do not go 
+through life feeling theri tension all the time, and some are actually resolved when exposed.
+I used to think they were just waiting for evidence or better reasoning to come along.
+But a friend of mine taught me otherwise.
+She’s always supported science. She defended vaccines, trusted research, followed evidence.
+And yet, for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work, and despite the basic reasoning that makes it implausible.
+
+How can someone hold both positions without feeling any internal conflict?
 
 Some might believe that homeopathy has simply been overlooked by mainstream science, but remains a respectable body of knowledge. This view isn't entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. This probably explains why most people feel no conflict. But even then, why do people continue to hold on to homeopathy, even when presented with strong evidence of its scientific flaws? The same person might fully support pro-mask policies during the pandemic, trusting the authority of health institutions — yet resist or dismiss those same institutions when they reject homeopathy.
 
