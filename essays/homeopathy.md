@@ -1,12 +1,10 @@
 # Homeopathy and Other Species
 
-I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how prevalent and long-lived they are. Opposing ideas share the same mind, but the pressure is never quite sufficient to unearth their friction.
+I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how prevalent and long-lived they are.
 
-We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. It was natural for me to think that evidence could unravel them.
+We all know contradictions make us human — but most of the time, we don’t _feel_ them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Opposing ideas sharing the same mind; the pressure never quite sufficient to unearth their friction.
 
-I used to think that was all it took — that contradiction was a knot waiting for reasoning to untangle it.
-
-This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her began to shift.
+It was natural for me to think that evidence could unravel them - that a contradiction was like a knot waiting for reason to untangle it. This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her began to shift.
 
 She’s always supported science. She trusted research, followed evidence, defended vaccines.
 And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
