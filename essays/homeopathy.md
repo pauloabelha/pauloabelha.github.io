@@ -1,6 +1,6 @@
 # Homeopathy and Other Species
 
-I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how common they are. Opposing ideas sharing the same mind, the pressure not quite sufficient to unearth their incompatibilty.
+I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how prevalent and long-lived they are. Opposing ideas sharing the same mind, the pressure never quite sufficient to unearth their friction.
 
 We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Some do unravel when exposed to evidence or thought.
 
