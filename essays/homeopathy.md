@@ -1,6 +1,5 @@
 # Homeopathy and Other Species
 
-Homeopathy and Other Species
 Contradictions fascinate me. We all know they make us human — yet we also crave resolution. They live quietly inside us, stitched into daily life, tugging just faintly at the seams.
 
 Left alone, they can settle in and endure for years — sometimes a lifetime. Opposing ideas share the same mind, but the tension is rarely enough to make them clash.
