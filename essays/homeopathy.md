@@ -2,9 +2,9 @@
 
 I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how prevalent and long-lived they are. Opposing ideas share the same mind, but the pressure is never quite sufficient to unearth their friction.
 
-We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Some do unravel when exposed to evidence or thought.
+We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Exposition to to evidence and clear reasoning should be enough to unravel them.
 
-I used to think that was all it took — that contradiction was just a knot waiting for reasoning to untangle it.
+I used to think that was all it took — that contradiction was a knot, waiting for reasoning to untangle it.
 
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her began to shift.
 
