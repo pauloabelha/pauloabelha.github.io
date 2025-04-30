@@ -1,22 +1,14 @@
 # Homeopathy and Other Species
 
-I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how prevalent and long-lived they are.
+We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Opposing ideas share the same mind; the pressure never quite sufficient to unearth their friction.
 
-We all know contradictions make us human — but most of the time, we don’t _feel_ them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Opposing ideas sharing the same mind; the pressure never quite sufficient to unearth their friction.
+It was natural for me to think that evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
 
-It was natural for me to think that evidence could unravel them - that a contradiction was like a knot waiting for reason to untangle it. This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her began to shift.
+This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her began to shift.
 
-She’s always supported science. She trusted research, followed evidence, defended vaccines.
-And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
+She’s always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
 Some might believe that homeopathy has simply been overlooked by mainstream science, but still deserves respect as a valid form of knowledge. This view isn’t entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. That probably explains why many people feel no conflict.
-
-But even then — why do people continue to hold on to homeopathy, even when presented with strong evidence of its scientific flaws?
-
-The same person might fully support pro-mask policies during the pandemic, trusting the authority of health institutions — yet resist or dismiss those same institutions when they reject homeopathy.
-
-
-
 
 We might be tempted to dismiss this by saying that humans can simply hold contradictory beliefs. But that feels too easy. After all, we don’t believe it’s raining and that the sky is clear at the same time. So what allows our minds to hold certain contradictions without discomfort — like being pro-science while also believing in homeopathy? Is it just that complex ideas rarely come into direct collision? Or is there something deeper at work?
 
