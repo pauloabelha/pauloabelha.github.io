@@ -1,5 +1,7 @@
 # Homeopathy and Other Species
 
+I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how prevalent and long-lived they are.
+
 We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Opposing ideas share the same mind; the pressure never quite sufficient to unearth their friction.
 
 It was natural for me to think that evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
