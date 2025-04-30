@@ -1,10 +1,9 @@
 # Homeopathy and Other Species
 
 Contradictions fascinate me. They make us human — yet we also crave resolution. We name them in others, but rarely face our own. They live quietly inside us, stitched into habit, barely tugging at the seams.
+Left alone, they settle in - some for a life.
 
-Left alone, they settle in - some for a life. Opposing ideas share one mind, but the tension is rarely enough to make them clash.
-
-It ised ti be natural thinking evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
+It used to be natural thinking evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
 
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her had begun to shift.
 
@@ -14,7 +13,7 @@ Some might believe that homeopathy has simply been overlooked by mainstream scie
 
 We might be tempted to dismiss this by saying that humans can simply hold contradictory beliefs. But that feels too easy. After all, we don’t believe it’s raining and that the sky is clear at the same time. So what allows our minds to hold certain contradictions without discomfort — like being pro-science while also believing in homeopathy? Is it just that complex ideas rarely come into direct collision? Or is there something deeper at work?
 
-Perhaps we’ve been thinking about beliefs too narrowly. We often assume that beliefs are either true or false, supported by evidence or not, and that those which don’t measure up should naturally fall away. But this view oversimplifies how our minds actually work. What if, instead of imagining the mind as a belief machine, we thought of it as a kind of ecosystem? In this mental ecosystem, ideas behave like species: some are robust and thrive through direct competition, while others are more delicate, surviving in sheltered niches where they are shielded from the scrutiny of logic or evidence.
+Perhaps we’ve been thinking about beliefs too narrowly. We often assumbeliefs are either true or false, supported by evidence or not, and that those which don’t measure up should naturally fall away. But this view oversimplifies how our minds actually work. What if, instead of imagining the mind as a belief machine, we thought of it as a kind of ecosystem? In this mental ecosystem, ideas behave like species: some are robust and thrive through direct competition, while others are more delicate, surviving in sheltered niches where they are shielded from the scrutiny of logic or evidence.
 
 Take homeopathy, for instance. The principle of "like cures like," proposed by Samuel Hahnemann in the late 1700s, holds that substances causing symptoms in a healthy person can cure those same symptoms when administered in highly diluted doses. Scientifically, this doesn’t hold up: there is no known empirical mechanism for how it could work, especially when dilutions leave no trace of the original substance. Yet despite the lack of scientific support, homeopathy persists — because it provides something science often does not: time, attention, and care.
 
