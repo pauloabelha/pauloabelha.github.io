@@ -1,8 +1,6 @@
 # Homeopathy and Other Species
 
-Contradictions fascinate me. We all know they make us human — yet we also crave resolution. When pointed out to us, they are seldom dealt with.
-
-Most of the time, they live quietly inside us, stitched into daily life, barely tugging at the seams.
+Contradictions fascinate me. We all know they make us human — yet we also crave resolution. When called out, they are seldom dealt with. Most of the time, they live quietly inside us, stitched into daily life, barely tugging at the seams.
 
 Left alone, they settle in for years — sometimes a lifetime. Opposing ideas share the same mind, but the tension is rarely enough to make them clash.
 
