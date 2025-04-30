@@ -9,7 +9,7 @@ I used to think that was all it took — that contradiction was just a knot wait
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her began to shift.
 
 She’s always supported science. She trusted research, followed evidence, defended vaccines.
-And yet, for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work.
+And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
 How do opposing ideas — like science and homeopathy — manage to share the same mind without ever colliding?
 
