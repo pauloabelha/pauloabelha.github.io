@@ -2,7 +2,7 @@
 
 I've always been fascinated by contradictions — not just because they're easier to spot in others than in ourselves, but because of how prevalent and long-lived they are. Opposing ideas share the same mind, but the pressure is never quite sufficient to unearth their friction.
 
-We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. Exposition to to evidence and clear reasoning should be enough to unravel them.
+We all know contradictions make us human — but most of the time, we don’t feel them. They live quietly inside us, stitched into daily life, barely tugging at the surface. It was natural for me to think that evidence and clear thinking were the right tools to unravel them.
 
 I used to think that was all it took — that contradiction was a knot, waiting for reasoning to untangle it.
 
