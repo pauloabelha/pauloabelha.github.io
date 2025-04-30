@@ -1,10 +1,10 @@
 # Homeopathy and Other Species
 
-Contradictions fascinate me. They mark us as human — yet we also crave resolution. When named, they are rarely faced. Most of the time, living quietly inside us, stitched into habit, barely tugging at the seams.
+Contradictions fascinate me. They make us human — yet we also crave resolution. We name them in others, but rarely face our own. They live quietly inside us, stitched into habit, barely tugging at the seams.
 
-Left alone, they settle in for years — sometimes a lifetime. Opposing ideas share the same mind, but the tension is rarely enough to make them clash.
+Left alone, they settle in for years — perhaps a lifetime. Opposing ideas share the same mind, but the tension is rarely enough to make them clash.
 
-It was natural for me to think evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
+It ised ti be natural thinking evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
 
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her had begun to shift.
 
