@@ -11,7 +11,14 @@ This changed when I saw something rare: a friend quietly letting go of her belie
 She’s always supported science. She trusted research, followed evidence, defended vaccines.
 And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
-Some might believe that homeopathy has simply been overlooked by mainstream science, but remains a respectable body of knowledge. This view isn't entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. This probably explains why most people feel no conflict. But even then, why do people continue to hold on to homeopathy, even when presented with strong evidence of its scientific flaws? The same person might fully support pro-mask policies during the pandemic, trusting the authority of health institutions — yet resist or dismiss those same institutions when they reject homeopathy.
+Some might believe that homeopathy has simply been overlooked by mainstream science, but still deserves respect as a valid form of knowledge. This view isn’t entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. That probably explains why many people feel no conflict.
+
+But even then — why do people continue to hold on to homeopathy, even when presented with strong evidence of its scientific flaws?
+
+The same person might fully support pro-mask policies during the pandemic, trusting the authority of health institutions — yet resist or dismiss those same institutions when they reject homeopathy.
+
+
+
 
 We might be tempted to dismiss this by saying that humans can simply hold contradictory beliefs. But that feels too easy. After all, we don’t believe it’s raining and that the sky is clear at the same time. So what allows our minds to hold certain contradictions without discomfort — like being pro-science while also believing in homeopathy? Is it just that complex ideas rarely come into direct collision? Or is there something deeper at work?
 
