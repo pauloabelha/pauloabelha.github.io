@@ -6,7 +6,7 @@ We all know contradictions make us human — but most of the time, we don’t fe
 
 I used to think that was all it took — that contradiction was just a knot waiting for reasoning to untangle it.
 
-This changed when I witnessed something rare: a friend abandoning her belief in homeopathy through a journey of self-guided reflection.
+This changed when I witnessed a remarkable act of courage: a friend abandoning her belief in homeopathy through a journey of self-guided reflection.
 
 She’s always supported science. She trusted research, followed evidence, defended vaccines.
 And yet, for years, she also believed in homeopathy — despite the broad scientific consensus that it doesn’t work.
