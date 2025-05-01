@@ -1,7 +1,7 @@
 # Homeopathy and Other Species
 
 Contradictions fascinate me.
-In others, they're easy to name — opposing ideas we posot could be reasoned away.
+In others, they're easy to name — opposing ideas we believe could be reasoned away.
 
 Inside us, they live quietly, stitched into habit, barely tugging at the seams.
 Left alone, they settle in — some for life.
