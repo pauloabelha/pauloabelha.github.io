@@ -1,6 +1,6 @@
 # Homeopathy and Other Species
 
-Contradictions fascinate me. They make us human — yet we also crave resolution. We name them in others, but rarely face our own.
+Contradictions fascinate me - theie disguise much clearer in others.
 
 They live quietly inside us, stitched into habit, barely tugging at the seams.
 Left alone, they settle in - some for a life.
