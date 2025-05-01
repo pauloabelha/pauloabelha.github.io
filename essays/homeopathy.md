@@ -6,7 +6,7 @@ In others, they are easy to name - opposing ideas we can reason our way out of.
 Inside us, they live quietly, stitched into habit, barely tugging at the seams.
 Left alone, they settle in - some for life.
 
-It used to be natural thinking evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
+I used to think evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
 
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her had begun to shift.
 
