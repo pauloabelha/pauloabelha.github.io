@@ -1,10 +1,10 @@
 # Homeopathy and Other Species
 
 Contradictions fascinate me.
-In others, they are easy to name - opposing ideas we could reason away.
+In others, they are easy to name — opposing ideas we could reason away.
 
 Inside us, they live quietly, stitched into habit, barely tugging at the seams.
-Left alone, they settle in - some for life.
+Left alone, they settle in — some for life.
 
 I used to think evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
 
