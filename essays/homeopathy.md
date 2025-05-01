@@ -4,7 +4,7 @@ Contradictions fascinate me.
 In others, they are easy to name - opposing ideas we can reason our way out of.
 
 Inside us, they live quietly, stitched into habit, barely tugging at the seams.
-Left alone, they settle in - some for a life.
+Left alone, they settle in - some for life.
 
 It used to be natural thinking evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
 
