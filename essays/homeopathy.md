@@ -1,8 +1,9 @@
 # Homeopathy and Other Species
 
-Contradictions fascinate me - theie disguise much clearer in others.
+Contradictions fascinate me.
+In others, they are easy to name - opposing ideas we can reason our way out of.
 
-They live quietly inside us, stitched into habit, barely tugging at the seams.
+Inside us, they live quietly, stitched into habit, barely tugging at the seams.
 Left alone, they settle in - some for a life.
 
 It used to be natural thinking evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
