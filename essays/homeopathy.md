@@ -2,12 +2,10 @@
 
 Contradictions fascinate me.
 In others, they're easy to name — opposing ideas we believe could be reasoned away.
-
 Inside us, they live quietly, stitched into habit, sometimes tugging at the seams.
 Left alone, they settle in — some for life.
 
 I used to think evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
-
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her had begun to shift.
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
