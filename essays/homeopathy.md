@@ -10,7 +10,9 @@ This changed when I saw something rare: a friend quietly letting go of her belie
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
-Some might believe that homeopathy has simply been overlooked by mainstream science, but still deserves respect as a valid form of knowledge. This view isn’t entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. That probably explains why many people feel no conflict.
+Arguably, for many cultures, homeopathy is not in direct opposition to science: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. That probably explains why many people feel no conflict. Some might believe that homeopathy has simply been overlooked by mainstream science, but still deserves respect as an effective form of medical practice.
+
+Even so, I have personal experience with people that, even when shown multiple evidence agains it, still hold their ground firmly with homeopathy. This is also true for other types of pseudoscientific ideas and practices - think osteopathy, chiropractice, astrology etc.
 
 We might be tempted to dismiss this by saying that humans can simply hold contradictory beliefs. But that feels too easy. After all, we don’t believe it’s raining and that the sky is clear at the same time. So what allows our minds to hold certain contradictions without discomfort — like being pro-science while also believing in homeopathy? Is it just that complex ideas rarely come into direct collision? Or is there something deeper at work?
 
