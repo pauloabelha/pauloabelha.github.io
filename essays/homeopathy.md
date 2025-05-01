@@ -1,7 +1,7 @@
 # Homeopathy and Other Species
 
 Contradictions fascinate me.
-In others, they are easy to name — opposing ideas we could reason away.
+In others, they're easy to name — opposing ideas we could reason away.
 
 Inside us, they live quietly, stitched into habit, barely tugging at the seams.
 Left alone, they settle in — some for life.
@@ -10,7 +10,7 @@ I used to think evidence could unravel them — that a contradiction was like a 
 
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her had begun to shift.
 
-She’s always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
+She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
 Some might believe that homeopathy has simply been overlooked by mainstream science, but still deserves respect as a valid form of knowledge. This view isn’t entirely unreasonable: in many countries, homeopathy is part of formal medical practice and is sometimes recommended alongside standard scientific treatments. That probably explains why many people feel no conflict.
 
