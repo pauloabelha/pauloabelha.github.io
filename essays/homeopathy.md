@@ -1,8 +1,8 @@
 # Homeopathy and Other Species
 
 Contradictions fascinate me.
-They are not hard to spot in other people, but inside us they live quietly.
-If left alone, they settle in — sometimes for life.
+We can spot them all around us, in systems and in people.
+They also live inside us, quietly — if left alone, they can last a lifetime.
 
 I used to think evidence could unravel them — that a contradiction was like a knot waiting for reason to untangle it.
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy — not because someone argued her out of it, but because something deeper in her had begun to shift.
