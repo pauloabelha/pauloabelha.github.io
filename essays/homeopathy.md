@@ -7,11 +7,11 @@ Exposing a contradiction is rarely effective, as I learned from watching a close
 
 I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it.
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy.
-No one argued her out of it. For all I know, none of our brief discussions changed much of her opinion. But one day, something deeper in her had begun to shift.
+No one argued her out of it. For all I know, none of our brief discussions changed much of her opinion. It was a surprise to me, but for a few days something deeper in her had begun to shift.
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
-In many cultures, homeopathy doesn’t feel like a contradiction. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict — as if homeopathy simply occupies a parallel track.
+In many cultures, homeopathy doesn’t _feel_ like a contradiction. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict — as if homeopathy simply occupies a parallel track.
 
 Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence.
 
