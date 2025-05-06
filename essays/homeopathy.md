@@ -3,7 +3,7 @@
 Contradictions fascinate me.
 We spot them all around us — in systems, institutions, and people.
 Inside us, they stay quiet. Left undisturbed, they can last a lifetime.
-Exposing a contradiction is rarely effective, as I learned while watching a close friend’s belief system dissolve.
+Exposing a contradiction is rarely effective, as I learned from watching a close friend’s belief system dissolve.
 
 I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it.
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy.
