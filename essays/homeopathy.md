@@ -2,7 +2,7 @@
 
 Contradictions fascinate me.
 We can spot them all around us, in systems, institutions and people.
-Inside us, they live quietly — if left alone, they can last a lifetime. 
+Inside us, they live quietly — when undisturbed, they last a lifetime. 
 Exposing a contradiction is rarely effective, as I learned while watching a close friend’s belief system dissolve.
 
 I used to think evidence could unravel it — that a contradiction was like a knot waiting for reason to untangle it.
