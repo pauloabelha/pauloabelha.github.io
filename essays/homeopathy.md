@@ -5,7 +5,7 @@ We can spot them all around us, in systems, institutions and people.
 Inside us, they live quietly — when undisturbed, they last a lifetime. 
 Exposing a contradiction is rarely effective, as I learned while watching a close friend’s belief system change.
 
-I used to think evidence could unravel it — that a contradiction was like a knot waiting for reason to untangle it.
+I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it.
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy.
 No one argued her out of it. For all I know, none of our brief discussions changed much of her opinion. But one day, something deeper in her had begun to shift.
 
