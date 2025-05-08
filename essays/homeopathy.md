@@ -10,7 +10,7 @@ No one argued her out of it. For all I know, none of our brief discussions chang
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
-In many cultures, homeopathy doesn’t _feel_ unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence. The culture we share does assimilate homeopathy to standard medical practice. 
+In many cultures, homeopathy doesn’t _feel_ unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence. 
 
 I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience. It made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
