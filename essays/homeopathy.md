@@ -14,7 +14,7 @@ In many cultures, homeopathy doesn’t _feel_ unscientific. It’s folded into f
 
 I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience. It made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
-I had been thinking about beliefs too narrowly. We often assume beliefs are either true or false, supported by evidence or not — and that those which don’t measure up should naturally fall away. But that view oversimplifies how our minds actually work. What if, instead of imagining the mind as a belief machine, we saw it as a kind of ecosystem?
+I had been thinking about beliefs too narrowly. Seeing them as probably true or false, supported by evidence or not — and that those which don’t measure up should naturally fall away. But that view oversimplifies how our minds actually work. What if, instead of imagining the mind as a belief machine, we saw it as a kind of ecosystem?
 
 In this mental ecosystem, ideas behave like species: some are robust, thriving through direct competition, while others are delicate — surviving in sheltered niches, protected from the harsh scrutiny of logic or evidence.
 
