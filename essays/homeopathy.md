@@ -1,7 +1,7 @@
 # Homeopathy and Other Species
 
 Contradictions fascinate me.
-We spot them all around us — in systems, institutions, and people.
+We spot them all around us: in systems, institutions, and people.
 They settle in quietly, weaving themselves into the stories we live by.
 Left alone, they can last a lifetime.
 And trying to expose them rarely works — as I would come to learn when a close friend’s belief system collapsed.
