@@ -2,7 +2,7 @@
 
 Contradictions fascinate me.
 We spot them all around us — in systems, institutions, and people.
-They settle in quietly, weaving themselves into the stories we live by. Left undisturbed, they can last a lifetime.
+They settle in quietly, weaving themselves into the stories we live by. Left alone, they can last a lifetime. And trying to expose them rarely works.
 Exposing a contradiction is rarely effective, as I learned from watching a close friend’s belief system dissolve.
 
 I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it.
@@ -11,9 +11,9 @@ No one argued her out of it. For all I know, none of our brief discussions chang
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
-In many cultures, homeopathy doesn’t _feel_ unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence. The culture me and my friend are part of does assimilate homeopathy to standard medical practice. 
+In many cultures, homeopathy doesn’t _feel_ unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence. The culture we share does assimilate homeopathy to standard medical practice. 
 
-I had long discussions with her, arguing for how homeopathy defies all established scientific knowledge. Also, how it has been dismissed as pseudoscience by most serious national and worldwide instituions. None of this was to much effect. She continued to hang on to it - perhaps, even more strongly. 
+I had long discussions with her, arguing for how homeopathy defies all established scientific knowledge. Also, how it has been dismissed as pseudoscience by most serious national and worldwide instituions. None of this was to much effect. She clung to it — if anything, more tightly.
 
 We might be tempted to dismiss this by saying that humans can simply hold contradictory beliefs. But that feels too easy. After all, we don’t believe it’s raining and that the sky is clear at the same time. So what allows our minds to hold certain contradictions without discomfort — like being pro-science while also believing in homeopathy? Is it just that complex ideas rarely come into direct collision? Or is there something deeper at work?
 
