@@ -30,4 +30,11 @@ That the question isn’t ancient. It’s recent.
 
 That it didn’t come from the world. It came from you
 
+We think we’re digging. But we’re building.
+
+The question “why anything?” feels like a descent—as if we’re peeling back layers toward bedrock. But that’s an illusion. Each answer adds a floor, not removes one. It’s not excavation. It’s construction.
+
+We’re not uncovering the real. We’re scaffolding new ways to think, to name, to model. The question doesn’t point to a bottom. It extends the structure.
+
+There is no ground level. Just thought, stacking more thought—until we mistake the structure for the source.
 
