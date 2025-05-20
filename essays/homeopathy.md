@@ -8,7 +8,7 @@ And trying to expose them rarely works — as I would come to learn when a close
 
 I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it.
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy.
-No one argued her out of it. For all I know, none of our brief discussions changed much of her opinion. It surprised me, but something deeper in her had begun to shift.
+No one argued her out of it. For all I know, none of our brief discussions changed much of her opinion. 
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
