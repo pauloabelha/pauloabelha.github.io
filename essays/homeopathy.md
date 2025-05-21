@@ -4,7 +4,7 @@ Contradictions fascinate me.
 We spot them all around us: in systems, institutions, and people.
 They settle in quietly, weaving themselves into the stories we live by.
 Left alone, they can last a lifetime.
-And trying to expose them rarely works — as I learned when a friend’s belief quietly collapsed.
+And trying to expose them rarely works — as I learned when a friend’s belief in homeopathy quietly collapsed.
 
 I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it.
 This changed when I saw something rare: a friend quietly letting go of her belief in homeopathy.
