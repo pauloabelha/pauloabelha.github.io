@@ -1,13 +1,9 @@
-Hello,
+Hello,  
 
-I write to think.
-A ritual of honesty - 
-a chant for the better angels of my mind.
+I write to think. A ritual of honesty—a chant for the better angels of my mind.  
+Like you, I echo Captain Ahab: *"Speak, thou vast and venerable head [...] O head! thou hast seen enough to split the planets and make an infidel of Abraham, and not one syllable is thine!"*  
 
-Like you, I echo Captain Ahab:
-"_Speak, thou vast and venerable head [...] O head! thou hast seen enough to split the planets and make an infidel of Abraham, and not one syllable is thine!_"
-
-Thank you for reading.
+Thank you for reading.  
 
 <br><br>
-Rio de Janeiro, May 21, 2025
+*Rio de Janeiro, May 21, 2025*
