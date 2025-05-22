@@ -20,9 +20,9 @@ I had been thinking about beliefs too narrowly. Seeing them as probably true or 
 
 In this mental ecosystem, ideas behave like species: some are robust, thriving through direct competition, while others are delicate — surviving in sheltered niches, protected from the harsh scrutiny of logic or evidence.
 
-When you visit a homeopath, it’s not just about the remedy. It’s about being listened to, being seen as a whole person rather than reduced to a set of symptoms. That experience creates trust — and trust is powerful. Even if the belief itself is fragile under scrutiny, the emotional connection forms a kind of protective barrier. Homeopathy survives in an emotional niche, shielded from the glare of scientific skepticism.
-
 What’s striking is that for many who hold these beliefs, they don’t feel like contradictions. Science — based on evidence and competition of ideas — might dominate their worldview. But dominance doesn’t always lead to extinction. Homeopathy, for instance, survives not by competing with science, but by withdrawing from its arena — like a species thriving in a remote valley, far from the predators of the open plains.
+
+When you visit a homeopath, it’s not just about the remedy. It’s about being listened to, being seen as a whole person rather than reduced to a set of symptoms. That experience creates trust — and trust is powerful. Even if the belief itself is fragile under scrutiny, the emotional connection forms a kind of protective barrier. Homeopathy survives in an emotional niche, shielded from the glare of scientific skepticism.
 
 This phenomenon isn’t unique to homeopathy. Take astrology. Despite lacking any scientific basis for the claim that celestial positions shape daily life, millions still check their horoscopes. Astrology endures not because it withstands critique, but because it fulfills emotional needs: comfort, narrative, a sense of meaning. It offers a story — one that science doesn’t always provide.
 
