@@ -1,7 +1,7 @@
 Hello,
 
 I write to think.
-A small ritual of honesty,
+A ritual of honesty - 
 a chant for the better angels of my mind.
 
 Like you, I echo Captain Ahab:
