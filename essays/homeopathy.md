@@ -14,15 +14,9 @@ I had been thinking about beliefs too narrowly. Seeing them as probably true or 
 
 In this mental ecosystem, ideas behave like species. Some thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nestled near stronger ideas or drawing quiet support from emotion. Fragile beliefs don’t stand alone. They persist by leaning on sturdier ones, or by settling into pockets of warmth and protection. What endures isn’t always what’s strongest, but what finds a place.
 
-What’s striking is that holding science and homeopathy together doesn’t strike a contradiction. Science — based on method and evidence — might dominate the intellectual terrain. But dominance doesn’t always lead to extinction. Homeopathy, for instance, survives not by confronting science, but by retreating from its path — like a plant growing in the underbrush, unnoticed by the larger canopy.
+But beliefs don’t merely coexist — they cluster. They form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative. A fragile belief may persist not by its own strength, but by its connections. In this way, minds don’t just host ideas; they cultivate interdependent ecologies. Beliefs co-evolve. Some even act parasitically, drawing energy from others without offering much in return. Others form mutualisms — reinforcing each other so tightly that neither would survive alone.
 
-This becomes clearer when you understand its emotional role. Visiting a homeopath isn’t just about the remedy. It’s about being listened to, about being seen whole. That experience builds trust — and trust, in this landscape, acts like shelter from the wind. Emotions aren’t background noise here. They shape the contours. They decide which ideas can take root, and which find the air too thin.
-
-I’ve come to think of these pockets of emotional protection as **epistemic microclimates** — small, stable zones where fragile beliefs survive despite the harsher intellectual weather around them.
-
-This isn’t unique to homeopathy. Take astrology. Despite lacking any scientific foundation, it fulfills emotional needs: narrative, comfort, a sense of pattern in chaos. It offers not facts but stories — stories that give shape to feeling. And in the mind, stories often settle more deeply than arguments.
-
-So fragile beliefs like astrology and homeopathy don’t compete directly with science. They grow alongside it, in different places. They thrive not because they’re strong, but because they fit — into lives, into moods, into memory.
+Homeopathy is only one such species adapted to the shaded corners of the mind. Astrology grows nearby. Despite lacking scientific foundation, it fulfills other roles — emotional patterning, symbolic coherence, a sense of rhythm in disorder. It doesn’t compete with science directly. It survives by feeding a different part of the psyche. It gives shape to feeling, not to fact. And in many minds, those feelings root deeper than arguments ever reach.
 
 Their persistence points to something deeper. These beliefs are not purely intellectual. They’re social, cultural, emotional. Rejecting homeopathy, for some, might feel like turning away from a shared past. The belief isn’t a lone tree in the clearing. It’s part of a grove — reinforced by the soil and the shade around it.
 
