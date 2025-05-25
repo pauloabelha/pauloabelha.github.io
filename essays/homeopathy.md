@@ -36,6 +36,7 @@ Something in her now allowed the evidence against homeopathy to take root. She b
 
 This points to a broader truth. Beliefs rarely collapse from a single blow. They wither. They erode. Not by force, but by a slow loss of shelter — a shift in the emotional weather, a change in what feels safe to hold.
 
-When something shakes the mind, ideas must compete. Some take hold. Others fall away. My friend’s belief didn’t fall to evidence. It faded because the space that had once held it no longer felt like home.
+When something shakes the mind, ideas must compete. Some take hold. Others fall away. My friend’s belief didn’t fall to evidence alone. It faded because a shift in terrain brought other species into contact — and into conflict.
 
-In the end, what survives isn’t just what’s right. It’s what fits. Ideas live or die not by the strength of their claims, but by the world they inhabit — the trust they evoke, the ground they cover, the shade they share. Contradictions may last for years — but in the end, only the beliefs that no longer need the shade remain.
+Contradictions are everywhere, but conflict only matters when species meet. Minds are good at integration — but just as good at isolation. They don’t just resolve dissonance. They compartmentalize it.
+
