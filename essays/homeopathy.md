@@ -10,7 +10,7 @@ In many cultures, homeopathy doesn’t _feel_ unscientific. It’s folded into f
 
 I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience. It made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
-The truth is: I had been thinking about beliefs too narrowly. Seeing them as probably true or false, supported by evidence or not — and that those which don’t measure up should naturally fall away. Emotions were just enhancers or blockers. I couldn’t see how contradictions might survive even when exposed. That view, of course, oversimplifies how minds work. What if, instead of imagining the mind as a belief machine, we saw it as a kind of ecosystem?
+The truth is, I had been thinking about beliefs too narrowly — as things either true or false, evidence-based or not, and assumed that those which didn’t measure up would naturally fall away. I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive — not despite being exposed, but because minds are structured to let them survive. That thought led me to think about the mind as an ecosystem.
 
 In this mental ecosystem, ideas behave like species. Some thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nestled near stronger ideas or drawing quiet support from emotion. Fragile beliefs don’t stand alone. They persist by leaning on sturdier ones, or by settling into pockets of warmth and protection. What endures isn’t always what’s strongest, but what finds a place.
 
