@@ -20,17 +20,17 @@ Homeopathy is just one such species, adapted to the shaded corners of a mind tha
 
 Their persistence points to something deeper. These beliefs are not purely intellectual. They’re social, cultural, emotional. Rejecting homeopathy, for some, might feel like turning away from a shared past. The belief isn’t a lone tree in the clearing. It’s part of a grove — reinforced by the soil and the shade around it.
 
-Not all minds offer the same terrain. Some people develop what you might call cognitive biodiversity early on — a dense tangle of interlocking ideas. I have a friend who, by age eight, was obsessed with dinosaurs and the scientific concepts surrounding them. He told me how, even then, he felt something odd about what the priest was preaching in Sunday church. His early grasp of evolution and deep time left little room for certain religious stories. SUch concepts didn’t even get the chance to germinate.
+Not all minds offer the same terrain. Some people develop what you might call cognitive biodiversity early on — a dense tangle of interlocking ideas. I have a friend who, by age eight, was obsessed with dinosaurs and the scientific concepts surrounding them. He told me how, even then, he felt something odd about what the priest was preaching in Sunday church. His early grasp of evolution and deep time left little room for certain religious stories. Such concepts didn’t even get the chance to germinate.
 
 His mind wasn’t cleared of contradiction by force. It was filled with something else — geology, biology, astronomy — each reinforcing the others. In that thicket, unsupported ideas had nowhere to land. There was no battle — just no room. Other young minds might find a way to integrate religious teachings, but his had just the right population and balance to reject it. The preached concepts could not take root in that ecosystem.
 
-Now contrast this with a mind that grows up in sparse mental surroundings. In open, unchallenged terrain, unvetted beliefs spread easily. There’s space, and little resistance. Complexity isn’t just decoration — it’s a kind of defense.
+Now contrast this with a mind that grows up in sparse mental surroundings. In open, unchallenged terrain, unvetted beliefs spread easily. There’s space, and little resistance. Complexity isn’t ornamental. It’s structural defense.
 
 This leads to something crucial. Rationality doesn’t dismantle beliefs through logic alone. It’s not about syllogisms. It’s about what fits. A mind full of interconnected ideas will find it harder to absorb weaker ones. There are too many points of conflict. The weak belief has nowhere to hide.
 
 Thinking about young minds again: early exposure to challenges that call for the creation of complex ecosystems doesn’t just train the mind. It alters the climate.
 
-Going back to my friend’s collapse of belief in homeopathy — over time, something shifted. It started when she began to question osteopathy — a belief nearby, part of the same cluster. She found out about the controversies surrounding it. Also about the possible dangers to babies and children. That possibility of harm destabilized part of her ecosystem. The canopy thinned. Without the cover it had long enjoyed, homeopathy began to collapse.
+Going back to my friend’s collapse of belief in homeopathy — over time, something shifted. It started when she began to question osteopathy — a belief nearby, part of the same cluster. She read about the controversies — and the potential risks to babies and children. That possibility of harm destabilized part of her ecosystem. The canopy thinned. Without the cover it had long enjoyed, homeopathy began to collapse.
 
 Something in her now allowed the evidence against homeopathy to take root. She began to read everything — a week-long reckoning of her own. After a week or two, it was overtly clear: homeopathy made no sense. That new position is now part of her. She has no intention of going back.
 
