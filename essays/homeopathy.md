@@ -34,4 +34,8 @@ Going back to my friend’s collapse of belief in homeopathy — over time, some
 
 Something in her now allowed the evidence against homeopathy to take root. She began to read everything — a week-long reckoning of her own. She told me that after a week or two, it became overtly clear how little sense homeopathy made. That new position is now an integral part of her, and she has no intention of going back.
 
-This points to a broader truth. Beliefs rarely collap
+This points to a broader truth. Beliefs rarely collapse from a single blow. They wither. They erode. Not by force, but by a slow loss of shelter — a shift in the emotional weather, a change in what feels safe to hold.
+
+When something shakes the mind, ideas must compete. Some take hold. Others fall away. My wife’s belief didn’t fall to evidence. It faded because the space that had once held it no longer felt like home.
+
+In the end, what survives isn’t just what’s right. It’s what fits. Ideas live or die not by the strength of their claims, but by the world they inhabit — the trust they evoke, the ground they cover, the shade they share. Like ecosystems, minds change. And with time, only the beliefs that can stand the light remain.
