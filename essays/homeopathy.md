@@ -32,4 +32,4 @@ Thinking about young minds again: early exposure to challenges that call for the
 
 Then came the shift. The evidence, long kept at bay, found new openings. She read everything — a private, week-long reckoning. By the end, it was obvious: homeopathy made no sense. Her new view isn’t provisional. It’s woven in now. She has no intention of going back.
 
-Contradictions are everywhere. But conflict only matters when species meet. Minds don’t just integrate — they partition. They let contradictions take root — so long as the terrain stays undisturbed.
+Contradictions are everywhere. But conflict only matters when species meet. Minds don’t just integrate — they partition. They let contradictions take root, as long as the terrain remains undisturbed.
