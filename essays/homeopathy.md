@@ -34,4 +34,4 @@ The shift in my friend's mind didn’t start with homeopathy. It began nearby �
 
 With less cover, criticism could finally take hold. When she later read that osteopathy is widely regarded as a pseudoscience, the label didn’t bounce off. It stuck. Scientific species, long kept at a distance, moved into terrain that had once excluded them. Coexistence gave way to conflict. She read everything — a private, week-long reckoning. By the end, homeopathy made no sense. It didn’t collapse from argument. It lost its shelter.
 
-Contradictions are everywhere. But conflict only matters when species meet. Minds don’t just integrate — they partition. They let contradictions take root — so long as the terrain stays undisturbed.
+Contradictions are everywhere. But conflict only matters when species meet. Minds don’t just integrate — they partition. Contradictions survive because the ecosystem allows it. Only disturbance forces a reckoning.
