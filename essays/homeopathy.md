@@ -30,6 +30,6 @@ This leads to something crucial. Rationality doesn’t dismantle beliefs through
 
 Thinking about young minds again: early exposure to challenges that call for the creation of complex ecosystems doesn’t just train the mind. It alters the climate.
 
-Then came the shift. The evidence, long kept at bay, found new openings. She read everything — a private, week-long reckoning. By the end, it was obvious: homeopathy made no sense. Her new view isn’t provisional. It’s woven in now. She has no intention of going back.
+The shift in my friend's mind didn’t start with homeopathy. It started nearby — with osteopathy. She came across medical warnings about its risks to babies and children, including reports of harm. That possibility unsettled her. One belief, once benign, was now dangerous. The emotional canopy thinned. And with less cover, the terrain began to change. Ideas that had once coexisted peacefully were now forced to confront one another. The scientific species, long held at a polite distance, now came into direct conflict with homeopathy. She read everything — a private, week-long reckoning. By the end, homeopathy made no sense. It didn’t collapse from argument. It lost its shelter.
 
-Contradictions are everywhere. But conflict only matters when species meet. Minds don’t just integrate — they partition. They let contradictions take root, as long as the terrain remains undisturbed.
+Contradictions are everywhere. But conflict only matters when species meet. Minds don’t just integrate — they partition. They let contradictions take root — so long as the terrain stays undisturbed.
