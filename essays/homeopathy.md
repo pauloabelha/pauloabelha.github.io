@@ -30,13 +30,6 @@ This leads to something crucial. Rationality doesn’t dismantle beliefs through
 
 Thinking about young minds again: early exposure to challenges that call for the creation of complex ecosystems doesn’t just train the mind. It alters the climate.
 
-Going back to my friend’s collapse of belief in homeopathy — over time, something shifted. It started when she began to question osteopathy — a belief nearby, part of the same cluster. She read about the controversies — and the potential risks to babies and children. That possibility of harm destabilized part of her ecosystem. The canopy thinned. Without the cover it had long enjoyed, homeopathy began to collapse.
+Then came the shift. The evidence, long kept at bay, found new openings. She read everything — a private, week-long reckoning. By the end, it was obvious: homeopathy made no sense. Her new view isn’t provisional. It’s woven in now. She has no intention of going back.
 
-Something in her now allowed the evidence against homeopathy to take root. She began to read everything — a week-long reckoning of her own. After a week or two, it was overtly clear: homeopathy made no sense. That new position is now part of her. She has no intention of going back.
-
-This points to a broader truth. Beliefs rarely collapse from a single blow. They wither. They erode. Not by force, but by a slow loss of shelter — a shift in the emotional weather, a change in what feels safe to hold.
-
-When something shakes the mind, ideas must compete. Some take hold. Others fall away. My friend’s belief didn’t fall to evidence alone. It faded because a shift in terrain brought other species into contact — and into conflict.
-
-Contradictions are everywhere, but conflict only matters when species meet. Minds are good at integration — but just as good at isolation. They don’t just resolve dissonance. They compartmentalize it.
-
+Contradictions are everywhere. But conflict only matters when species meet. Minds don’t just integrate — they partition. They let contradictions take root — so long as the terrain stays undisturbed.
