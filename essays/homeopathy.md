@@ -8,9 +8,13 @@ She’d always supported science. She trusted research, followed evidence, defen
 
 In many cultures, homeopathy doesn’t _feel_ unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence.
 
-I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience. It made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
+I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience. 
+To me there was a crisp contradiction between current scientific knowledge and homeopathy. 
+In her mind, there was none. Our discussions made little difference.
+She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
-The truth is, I had been thinking about beliefs too narrowly — as things either true or false, evidence-based or not, and assumed that those which didn’t measure up would naturally fall away. I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive — not despite being exposed, but because minds are structured to let them survive. That thought led me to think about the mind as an ecosystem.
+The truth is, I had been thinking about beliefs too narrowly — as things either probabily true or false, evidence-based or not, and assumed that those which didn’t measure up would naturally fall away. 
+Of course emotional attachments should influence the willigness to let go of one belief or another. But I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive — not despite being exposed, but because minds are structured to let them survive. That thought led me to think about the mind as an ecosystem.
 
 In this mental ecosystem, ideas behave like species. Some thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nestled near stronger ideas or drawing quiet support from emotion. Fragile beliefs don’t stand alone. They persist by leaning on sturdier ones, or by settling into pockets of warmth and protection. What endures isn’t always what’s strongest, but what finds a place.
 
