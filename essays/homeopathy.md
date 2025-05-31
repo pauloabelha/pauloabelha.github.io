@@ -13,10 +13,14 @@ To me there was a crisp contradiction between current scientific knowledge and h
 In her mind, there was none. Our discussions made little difference.
 She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
-The truth is, I had been thinking about beliefs too narrowly — as things either probabily true or false, evidence-based or not, and assumed that those which didn’t measure up would naturally fall away. 
-Of course emotional attachments should influence the willigness to let go of one belief or another. But I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive — not despite being exposed, but because minds are structured to let them survive. That thought led me to think about the mind as an ecosystem.
+The truth is, I had been thinking about beliefs too narrowly — as things either probabily true or false, evidence-based or not, and assumed that those which didn’t measure up would naturally fall away. By training or upbrinnging some would have better mental schema for understanding and making sense of the world. What I could not understand was how contradictions could survive what I thought were direct exposure.
 
-In this mental ecosystem, ideas behave like species. Some thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nestled near stronger ideas or drawing quiet support from emotion. Fragile beliefs don’t stand alone. They persist by leaning on sturdier ones, or by settling into pockets of warmth and protection. What endures isn’t always what’s strongest, but what finds a place.
+Emotions might play a role. Emotional attachments influencing the willigness to let go of one belief or another. But I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive exposure because the landspace of a mind can shelter one idea from another.
+
+What is a supposed contradiction to someone one can survive in two different niches in someone else. Scientiic ideas survive in one niche, but homeopathy survives in another. Homeopathy might have evolved very attached to someone's identity. The concepts one has of oneself might depend on other ones for their survival. 
+The mind can be thought of as an ecosystem of ideas.
+
+Some ideas thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nestled near stronger ideas or drawing quiet support from emotion. Fragile beliefs don’t stand alone. They persist by leaning on sturdier ones, or by settling into pockets of warmth and protection. What endures isn’t always what’s strongest, but what finds a place.
 
 But beliefs don’t merely coexist — they cluster. They form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative. A weak idea may persist not by its own strength, but by its connections. In this way, minds don’t just host ideas; they cultivate interdependent ecologies. Beliefs co-evolve. Some even act parasitically, drawing energy from others without offering much in return. A conspiracy theory, for instance, might leech credibility from legitimate doubt without supplying coherence of its own. Others form mutualisms — reinforcing each other so tightly that neither would survive alone.
 
