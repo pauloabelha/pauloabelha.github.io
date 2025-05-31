@@ -17,7 +17,7 @@ The truth is, I had been thinking about beliefs too narrowly — as things eithe
 
 Emotions might play a role. Emotional attachments influencing the willigness to let go of one belief or another. But I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive exposure because the landspace of a mind can shelter one idea from another.
 
-What is a supposed contradiction to someone one can survive in two different niches in someone else. Scientiic ideas survive in one niche, but homeopathy survives in another. Homeopathy might have evolved very attached to someone's identity. The concepts one has of oneself might depend on other ones for their survival. 
+What looks like a contradiction from the outside may not be one internally. Ideas can occupy separate ecological niches in a person’s mind. Scientific reasoning may thrive in one region, while homeopathy persists in another, unchallenged. Some beliefs, like homeopathy, may have evolved in symbiosis with a person’s identity. The concepts one has of oneself might depend on other ones for their survival. 
 The mind can be thought of as an ecosystem of ideas.
 
 Some ideas thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nestled near stronger ideas or drawing quiet support from emotion. Fragile beliefs don’t stand alone. They persist by leaning on sturdier ones, or by settling into pockets of warmth and protection. What endures isn’t always what’s strongest, but what finds a place.
