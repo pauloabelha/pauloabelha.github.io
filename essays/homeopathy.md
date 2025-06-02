@@ -20,11 +20,14 @@ Emotions might play a role. Emotional attachments influencing the willigness to 
 What looks like a contradiction from the outside may not be one internally. Ideas can occupy separate ecological niches in a person’s mind. Scientific reasoning may thrive in one region, while homeopathy persists in another, unchallenged. Some beliefs, like homeopathy, may have evolved in symbiosis with a person’s identity. The concepts one has of oneself might depend on other ones for their survival. 
 The mind can be thought of as an ecosystem of ideas.
 
-Some ideas thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nestled near stronger ideas or drawing quiet support from emotion. Fragile beliefs don’t stand alone. They persist by leaning on sturdier ones, or by settling into pockets of warmth and protection. What endures isn’t always what’s strongest, but what finds a place.
+Some ideas thrive in open air — resilient, competing, spreading across the mind.
+Others survive only in the shade, nested in stronger ideas. Some beliefs persist because they have others depending on them. 
+Homeopathy might be for some a species on which their identity depends. 
+So one cannot weaken the idea of homeopathy, without affecting the survival of the current identity.
+
+--------------
 
 But beliefs don’t merely coexist — they cluster. They form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative. A weak idea may persist not by its own strength, but by its connections. In this way, minds don’t just host ideas; they cultivate interdependent ecologies. Beliefs co-evolve. Some even act parasitically, drawing energy from others without offering much in return. A conspiracy theory, for instance, might leech credibility from legitimate doubt without supplying coherence of its own. Others form mutualisms — reinforcing each other so tightly that neither would survive alone.
-
-Homeopathy is just one such species, adapted to the shaded corners of a mind that also harbors many scientific ones. Astrology grows nearby. Despite lacking scientific foundation, it fulfills other roles — emotional patterning, symbolic coherence, a sense of rhythm in disorder. It doesn’t compete with science directly. It survives by feeding a different part of the psyche.
 
 Their persistence points to something deeper. These beliefs are not purely intellectual. They’re social, cultural, emotional. Rejecting homeopathy, for some, might feel like turning away from a shared past. The belief isn’t a lone tree in the clearing. It’s part of a grove — reinforced by the soil and the shade around it.
 
