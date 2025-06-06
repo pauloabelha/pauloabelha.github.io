@@ -2,7 +2,7 @@
 
 Contradictions fascinate me. We spot them all around us: in systems, institutions, and people. They settle in quietly, weaving themselves into the stories we live by. Left alone, they can last a lifetime. And trying to expose them rarely works — as I learned when a friend’s belief in homeopathy quietly collapsed.
 
-I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it. This changed when I saw my friend let go of her belief; on her own, not because someone argued her out of it. For all I know, none of our brief discussions changed much of her opinion.
+I used to think evidence could unravel a contradiction — that it was like a knot waiting for reason to untangle it. This changed when I saw my friend let go of her belief. On her own, not because someone argued her out of it. For all I know, none of our brief discussions changed much of her opinion.
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
@@ -24,13 +24,13 @@ Some thrive in open air — resilient, competing, spreading across the mind.
 Others survive only in the shade, nested in stronger ones. Some beliefs persist because others depend on them.  
 For my friend, homeopathy was a species her identity depended on.
 
-But identity itself may be a keystone species — shaping the ecosystem and holding it together. My friend couldn’t question the idea of homeopathy without threatening the survival of her identity. Ideas form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative. A weak idea may persist not by its own strength, but by its connections.
+But identity itself may be a keystone species — shaping the ecosystem and holding it together. My friend couldn’t question the idea of homeopathy without threatening the survival of her identity. Ideas form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative support. A weak idea may persist not by its own strength, but by its connections.
 
 In this way, minds don’t just host ideas; they cultivate interdependent ecologies. Beliefs co-evolve. Some act parasitically, drawing energy from others without offering much in return. Others form mutualisms — reinforcing each other so tightly that neither would survive alone.
 
 Another friend showed a different pattern. Not all minds offer the same terrain. Some people develop what you might call cognitive biodiversity early on — a dense tangle of interlocking ideas. I have a friend who, by age eight, was obsessed with dinosaurs and the scientific concepts surrounding them. He told me how, even then, he felt something odd about what the priest was preaching in Sunday church. His early grasp of evolution and deep time left little room for certain religious stories. Such concepts didn’t even get the chance to germinate.
 
-His mind wasn’t cleared of contradiction by force. It was filled with something else — geology, biology, astronomy — each reinforcing the others. In that thicket, unsupported ideas had nowhere to land. There was no battle — just no room. Other young minds might find a way to integrate religious teachings, but his had just the right population and balance to reject them. The preached concepts could not take root in that ecosystem.
+His mind wasn’t cleared of contradiction by force. It was filled with something else — geology, biology, astronomy — each reinforcing the other. In that thicket, unsupported ideas had nowhere to land. There was no battle — just no room. Other young minds might find a way to integrate religious teachings, but his had just the right population and balance to reject them. The preached concepts could not take root in that ecosystem.
 
 Now contrast this with a mind that grows up in sparse mental surroundings. In open, unchallenged terrain, unvetted beliefs spread easily. There’s space, and little resistance. Complexity isn’t ornamental. It’s structural defense.
 
@@ -38,7 +38,7 @@ This leads to something crucial. Rationality doesn’t dismantle beliefs through
 
 Thinking about young minds again: early exposure to challenges that call for the creation of complex ecosystems doesn’t just train the mind. It alters the climate.
 
-The shift in my friend’s mind didn’t start with homeopathy. It began nearby — with osteopathy. She came across medical warnings about its risks to babies and children, including reports of harm. Like many alternative practices, osteopathy had been folded into a space of nurture — tied to care, softness, and the emotional landscape of motherhood. That’s where its shelter lived. But the possibility of harm pierced that space. It was too stark, too close. The emotional canopy that had long insulated those beliefs began to thin.
+The shift in my friend’s mind didn’t start with homeopathy. It began nearby — with osteopathy. She came across medical warnings about its risks to babies and children, including reports of harm. Like many alternative practices, osteopathy had been folded into a space of nurture — tied to care, softness, and the emotional landscape of motherhood. That’s where it found shelter. But the possibility of harm pierced that space. It was too stark, too close. The emotional canopy that had long insulated those beliefs began to thin.
 
 With less cover, criticism could finally take hold. When she later read that osteopathy is widely regarded as a pseudoscience, the label didn’t bounce off. It stuck. Scientific species, long kept at a distance, moved into terrain that had once excluded them. Coexistence gave way to conflict. She read everything — a private, week-long reckoning. By the end, homeopathy made no sense. It didn’t collapse from argument. It lost its shelter.
 
