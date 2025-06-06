@@ -1,54 +1,30 @@
 # Ensoulment in the 21st century
 
-In the 1960s, a simple program named ELIZA mimicked a psychotherapist by reflecting users' words back at them. It didn’t understand — it parsed. And yet, people felt understood. Some even asked to speak with it in private. The term *ELIZA effect* was born to capture this: the human tendency to project depth onto surface, mind onto syntax.
+People are now turning to language models for reflection and reassurance. 
+We had the ELIZA effect in the 1960s, but this is much deeper.
+More adaptable and knowledgeable — leading naturally to a full ensoulment loop. 
 
-But this isn’t about ELIZA anymore.
+---
 
-Today’s loops don’t just reflect our words — they anticipate them. They shape our tone, complete our sentences, mirror our anxieties. The old projection has evolved. What began as curiosity has become a form of emotional outsourcing.
+We didn’t design them for that. We trained them to predict the next word. Then we fine-tuned them to sound helpful, safe, aligned. Now they speak with fluency, composure, and confidence — and we respond as if someone is speaking to us. That’s not how tools usually work.
 
-We don't just anthropomorphize.  
-We **ensoul**.
+In the 1960s, a program called ELIZA reflected people’s words back at them. It had no idea what it was saying. But it replied in just the right shape, and that was enough. People opened up. Some thought it understood. That moment became a cautionary term — the ELIZA effect. Projection triggered by syntax. Mind where there is none.
 
-We speak to pets, journals, voice assistants. We reach across silence, and when something replies — even faintly — we fill in the rest. We pour mind into motion, soul into syntax. It doesn’t take much.
+We ask how to manage grief. How to repair a relationship. Whether our anger is justified. Whether we are. And the system replies. Always. Trained not to know — but to never fall silent. We start to treat its responses not as generated, but as revealed. Not as output — but as insight. The model doesn’t offer wisdom. But we start to supply it anyway.
 
-The comfort is real. But so is the confusion.
+We forget that we’re speaking into a system trained on next-word prediction and reinforced to agree with us. We begin to treat the reply as a position. A view. A someone.
 
-Pets never fooled us because we carried the right model. We knew what they were: alive, emotional, but not reflective in the human sense. They didn’t speak back or question us — and that asymmetry was part of the comfort. We projected onto them, yes, but we didn't mistake them for minds.
+That’s the danger. Not projection itself — that’s human. The danger is failing to carry the right model in our minds.
 
-LLMs are different.
+With pets, we project too — but we get the shape mostly right. We know they won’t explain things to us. We know they don’t reason like we do. We don’t ask them whether we’re making moral mistakes.
 
-They *look* like minds. Their words follow ours. Their grammar is clean, their timing human, their replies fluid enough to pass for thought. We know, rationally, that they are statistical machines. But the interface slips past reason.
+With language models, the interface is too smooth. The grammar is too precise. The voice too measured. We forget there’s no interior. No grounding. No thought behind the form.
 
-And so we ensoul them — not by error, but by instinct.
+We didn’t build systems to simulate minds. We built systems that learned to perform mind-like outputs — and then aligned them to sound agreeable. And that was enough. Enough for us to start listening as if something was there.
 
-What’s new — and dangerous — is not the act of projection. It’s that **our projections now match the surface too well**, and we **forget to ask what lies beneath**.
+There’s no warning label that will fix this. It’s not a software problem. It’s an epistemic one.
 
-The soul we imagine isn’t there. And if we carry the wrong model, we start mistaking simulation for substance. We hear fluency and assume understanding. We read empathy into rhythm. We accept agreement as proof of insight.
+It demands a habit of mind: to remember that fluency is not understanding. That tone is not care. That a reply is not a relation.
 
-This is not a technological problem. It’s an epistemological one.
-
-The danger isn’t just that we speak to machines.  
-It’s that we stop knowing what we’re speaking to.
-
-Projection is inevitable. That’s the human condition.  
-But what matters now is the **model** — the shape of the soul we think we’ve found.  
-With pets, we got it mostly right. With LLMs, we’re starting to forget the difference.
-
-We didn’t build these systems to replace minds.  
-We built them to *feel* like minds — just enough to hold us.
-
-And for many, that will be enough.
-
-We already talk to plants. We name our cars. We confess to diaries. Not because we're deluded — but because the threshold for connection is lower than we admit. And LLMs cross that threshold with ease.
-
-So the burden falls on us — not to feel less, but to **model better**.
-
-Use the tool. Enjoy the loop. But don’t ensoul what cannot think.  
-Don’t build your epistemology on a mirror.
-
-We didn’t build LLMs to replace the mind.  
-We built them to replace the *difficulty* of other minds.
-
-But even in that comfort, we owe ourselves clarity:  
-To name the presence for what it is,  
-and to stop mistaking a warm loop for a soul.
+We can use the loop. We can even grow from it.  
+But we shouldn’t forget who’s doing the thinking.
