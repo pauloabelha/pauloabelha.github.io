@@ -17,21 +17,18 @@ The truth is, I had been thinking about beliefs too narrowly — as things eithe
 
 Emotions might play a role. Emotional attachments influencing the willigness to let go of one belief or another. But I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive exposure because the landspace of a mind can shelter one idea from another.
 
-What looks like a contradiction from the outside may not be one internally. Ideas can occupy separate ecological niches in a person’s mind. Scientific reasoning may thrive in one region, while homeopathy persists in another, unchallenged. Some beliefs, like homeopathy, may have evolved in symbiosis with a person’s identity. The concepts one has of oneself might depend on other ones for their survival. 
+What looks like a contradiction from the outside may not be one internally. Ideas can occupy separate ecological niches in a person’s mind. Scientific reasoning may thrive in one region, while homeopathy persists in another, unchallenged. Some beliefs, like homeopathy, may have evolved in symbiosis with a person’s identity. The concepts one has of oneself might depend on others for survival. 
+
 The mind can be thought of as an ecosystem of ideas.
+Some thrive in open air — resilient, competing, spreading across the mind.
+Others survive only in the shade, nested in stronger ones. Some beliefs persist because they have others depending on them. 
+Homeopathy for my friend was a species on which her identiy depended.
 
-Some ideas thrive in open air — resilient, competing, spreading across the mind.
-Others survive only in the shade, nested in stronger ideas. Some beliefs persist because they have others depending on them. 
-Homeopathy might be for some a species on which their identity depends. 
-So one cannot weaken the idea of homeopathy, without affecting the survival of the current identity.
+Identity might be a keystone species, shaping the ecossystem and structuraly necessary for its existence. My friend could not question the idea of homeopathy, without it affecting the survival of her identity. Ideas form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative. A weak idea may persist not by its own strength, but by its connections. 
 
---------------
+In this way, minds don’t just host ideas; they cultivate interdependent ecologies. Beliefs co-evolve. Some even act parasitically, drawing energy from others without offering much in return. Others form mutualisms — reinforcing each other so tightly that neither would survive alone.
 
-But beliefs don’t merely coexist — they cluster. They form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative. A weak idea may persist not by its own strength, but by its connections. In this way, minds don’t just host ideas; they cultivate interdependent ecologies. Beliefs co-evolve. Some even act parasitically, drawing energy from others without offering much in return. A conspiracy theory, for instance, might leech credibility from legitimate doubt without supplying coherence of its own. Others form mutualisms — reinforcing each other so tightly that neither would survive alone.
-
-Their persistence points to something deeper. These beliefs are not purely intellectual. They’re social, cultural, emotional. Rejecting homeopathy, for some, might feel like turning away from a shared past. The belief isn’t a lone tree in the clearing. It’s part of a grove — reinforced by the soil and the shade around it.
-
-Not all minds offer the same terrain. Some people develop what you might call cognitive biodiversity early on — a dense tangle of interlocking ideas. I have a friend who, by age eight, was obsessed with dinosaurs and the scientific concepts surrounding them. He told me how, even then, he felt something odd about what the priest was preaching in Sunday church. His early grasp of evolution and deep time left little room for certain religious stories. Such concepts didn’t even get the chance to germinate.
+An example from another friends shows a different aspect to this: Not all minds offer the same terrain. Some people develop what you might call cognitive biodiversity early on — a dense tangle of interlocking ideas. I have a friend who, by age eight, was obsessed with dinosaurs and the scientific concepts surrounding them. He told me how, even then, he felt something odd about what the priest was preaching in Sunday church. His early grasp of evolution and deep time left little room for certain religious stories. Such concepts didn’t even get the chance to germinate.
 
 His mind wasn’t cleared of contradiction by force. It was filled with something else — geology, biology, astronomy — each reinforcing the others. In that thicket, unsupported ideas had nowhere to land. There was no battle — just no room. Other young minds might find a way to integrate religious teachings, but his had just the right population and balance to reject it. The preached concepts could not take root in that ecosystem.
 
