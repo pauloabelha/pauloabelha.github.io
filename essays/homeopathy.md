@@ -8,10 +8,7 @@ She’d always supported science. She trusted research, followed evidence, defen
 
 In many cultures, homeopathy doesn’t *feel* unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence.
 
-I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience.  
-To me, there was a crisp contradiction between current scientific knowledge and homeopathy.  
-In her mind, there was none. Our discussions made little difference.  
-She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
+I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience. To me, there was a crisp contradiction between current scientific knowledge and homeopathy. In her mind, there was none. Our discussions made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
 I’d thought of beliefs too narrowly — as things that were probably true or false, more or less supported by evidence. I assumed weak beliefs would collapse when exposed. What I hadn’t grasped was how minds can shield them. Some beliefs survive not by strength, but by shelter.
 
@@ -19,10 +16,7 @@ Emotional attachments shape the willingness to let go of one belief over another
 
 What looks like a contradiction from the outside may not be one internally. Ideas can occupy separate ecological niches in a person’s mind. Scientific reasoning may thrive in one region, while homeopathy persists in another, unchallenged. Some beliefs, like homeopathy, may have evolved in symbiosis with a person’s identity. The concepts one has of oneself might depend on others for survival.
 
-The mind can be thought of as an ecosystem of ideas.  
-Some thrive in open air — resilient, competing, spreading across the mind.  
-Others survive only in the shade, nested in stronger ones. Some beliefs persist because others depend on them.  
-For my friend, homeopathy was a species her identity depended on.
+The mind can be thought of as an ecosystem of ideas. Some thrive in open air — resilient, competing, spreading across the mind. Others survive only in the shade, nested in stronger ones. Some beliefs persist because others depend on them. For my friend, homeopathy was a species her identity depended on.
 
 But identity itself may be a keystone species — shaping the ecosystem and holding it together. My friend couldn’t question the idea of homeopathy without threatening the survival of her identity. Ideas form symbiotic networks, like plants sharing root systems or fungal webs beneath a forest floor. One belief shelters another, or supplies it with nutrients — emotional, cultural, narrative support. A weak idea may persist not by its own strength, but by its connections.
 
