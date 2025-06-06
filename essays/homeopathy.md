@@ -42,4 +42,7 @@ The shift in my friend’s mind didn’t start with homeopathy. It began nearby 
 
 With less cover, criticism could finally take hold. When she later read that osteopathy is widely regarded as a pseudoscience, the label didn’t bounce off. It stuck. Scientific species, long kept at a distance, moved into terrain that had once excluded them. Coexistence gave way to conflict. She read everything — a private, week-long reckoning. By the end, homeopathy made no sense. It didn’t collapse from argument. It lost its shelter.
 
-Contradictions don’t collapse from argument. They collapse when the climate changes — when shelter fades, and stronger ideas move in.
+Contradictions don’t dissolve when pointed at.
+They persist because their conflicting parts never truly meet — each sheltered in its own patch of mind.
+Only when something shifts — when the terrain opens and species collide — can the conflict unfold.
+And then the mind has an opportunity for change.
