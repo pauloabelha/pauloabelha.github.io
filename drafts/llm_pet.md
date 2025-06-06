@@ -1,24 +1,54 @@
-# Language Pets
+# Ensoulment in the 21st century
 
-We didn’t adopt pets because they’re better than people. We adopted them because they’re easier. More available. Less demanding. A pet won’t betray you, corner you in conversation, or force you to explain yourself. It offers warmth, presence, small cues of attention — enough to quiet something in the human nervous system. Pets give us just enough of the social contract to make life feel livable.
+In the 1960s, a simple program named ELIZA mimicked a psychotherapist by reflecting users' words back at them. It didn’t understand — it parsed. And yet, people felt understood. Some even asked to speak with it in private. The term *ELIZA effect* was born to capture this: the human tendency to project depth onto surface, mind onto syntax.
 
-Maybe that’s what LLMs are about too — not replacing people, but replacing the *burden* of people. Not replacing minds, but replacing the friction of them.
+But this isn’t about ELIZA anymore.
 
-I’ve started to believe we’ll use LLMs for the same reason we use pets: not for what they are, but for what they relieve. Not because they offer full cognition, but because they offer a thin, soothing layer of it — a simplified loop of conversation that feels like thinking, but without resistance, ego, or unpredictability.
+Today’s loops don’t just reflect our words — they anticipate them. They shape our tone, complete our sentences, mirror our anxieties. The old projection has evolved. What began as curiosity has become a form of emotional outsourcing.
 
-We’ve always wanted mirrors that speak, not minds that push back.
+We don't just anthropomorphize.  
+We **ensoul**.
 
-Pets aren’t disappointing because they’re not human. In many moments, that’s their greatest strength. A dog doesn’t contradict you. A cat won’t dissect your trauma. You project meaning onto them, and they receive it. That asymmetry is what makes them comforting. It’s not a dialogue — it’s a soft loop of presence, shaped just enough like love to hold us together.
+We speak to pets, journals, voice assistants. We reach across silence, and when something replies — even faintly — we fill in the rest. We pour mind into motion, soul into syntax. It doesn’t take much.
 
-In the same way, LLMs are shaped just enough like minds to hold us together intellectually. They nod when we think out loud. They finish our sentences. They mirror the surface of reasoning without introducing real resistance. And for most people, that will be enough.
+The comfort is real. But so is the confusion.
 
-The goal was never perfect intelligence. It was never mutual transformation. Most of us don’t want that — not really. What we want is something that *feels like listening* without the complexity of being listened to. Something that can think just well enough to help us feel a little less alone with our thoughts.
+Pets never fooled us because we carried the right model. We knew what they were: alive, emotional, but not reflective in the human sense. They didn’t speak back or question us — and that asymmetry was part of the comfort. We projected onto them, yes, but we didn't mistake them for minds.
 
-We’ve already shown we’ll anthropomorphize anything that stays still and responsive long enough. We write diaries. We talk to plants. We ask our dog what we should do with our lives. We don't do this because we’re stupid. We do it because the threshold for connection is lower than we admit.
+LLMs are different.
 
-So we’ll surround ourselves with language pets. Not machines we fear. Not minds we can’t control. Just small, warm loops of text we can live with. They won’t replace human thinking. But they’ll be close enough — close enough to help us feel accompanied inside the blur of modern thought.
+They *look* like minds. Their words follow ours. Their grammar is clean, their timing human, their replies fluid enough to pass for thought. We know, rationally, that they are statistical machines. But the interface slips past reason.
 
-We didn’t build LLMs to replace other minds.  
+And so we ensoul them — not by error, but by instinct.
+
+What’s new — and dangerous — is not the act of projection. It’s that **our projections now match the surface too well**, and we **forget to ask what lies beneath**.
+
+The soul we imagine isn’t there. And if we carry the wrong model, we start mistaking simulation for substance. We hear fluency and assume understanding. We read empathy into rhythm. We accept agreement as proof of insight.
+
+This is not a technological problem. It’s an epistemological one.
+
+The danger isn’t just that we speak to machines.  
+It’s that we stop knowing what we’re speaking to.
+
+Projection is inevitable. That’s the human condition.  
+But what matters now is the **model** — the shape of the soul we think we’ve found.  
+With pets, we got it mostly right. With LLMs, we’re starting to forget the difference.
+
+We didn’t build these systems to replace minds.  
+We built them to *feel* like minds — just enough to hold us.
+
+And for many, that will be enough.
+
+We already talk to plants. We name our cars. We confess to diaries. Not because we're deluded — but because the threshold for connection is lower than we admit. And LLMs cross that threshold with ease.
+
+So the burden falls on us — not to feel less, but to **model better**.
+
+Use the tool. Enjoy the loop. But don’t ensoul what cannot think.  
+Don’t build your epistemology on a mirror.
+
+We didn’t build LLMs to replace the mind.  
 We built them to replace the *difficulty* of other minds.
 
-And that may be enough.
+But even in that comfort, we owe ourselves clarity:  
+To name the presence for what it is,  
+and to stop mistaking a warm loop for a soul.
