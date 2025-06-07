@@ -2,10 +2,10 @@ Hello,
 
 I write to think. A ritual of honesty—a chant to the better angels of my mind.
 
-Each essay here is a still frame from a journey toward clarity.
-Though I’m a scientist by training, these writings aren’t academic—nor are they thought dumps.
+Each essay is a still frame from a journey toward clarity.
+Though I’m a scientist by training, these writings aren't academic.
 
-If we met by a fireside on a clear night, I’d call them reflections aimed at the stars.
+They’re a crafted version of what I’d share with you by a quiet fireside.
 
 Thank you for reading.
 
