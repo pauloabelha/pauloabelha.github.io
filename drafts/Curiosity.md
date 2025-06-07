@@ -14,66 +14,58 @@ Then it doesn’t.
 
 Around seven, something shifts. The mind becomes more logical, more structured. It starts looking for rules. That’s good. But it also starts looking for the *right* answer — not just any answer.
 
-School reinforces this. Teachers ask questions they already know the answers to. Students learn to stop guessing out loud. Being wrong begins to feel worse than not asking at all. It’s subtle at first. But it builds. You can feel it — that moment when someone realizes it’s safer to look smart than to stay curious.
+School reinforces this. Teachers ask questions they already know the answers to. Students learn to stop guessing out loud. Being wrong begins to feel worse than not asking at all.
 
-That’s when curiosity stops being free. It starts negotiating with identity.
+It’s subtle at first. But it builds. You can feel it — that moment when someone realizes it’s safer to look smart than to stay curious. That’s when curiosity stops being free. It starts negotiating with identity.
 
 During early adolescence, curiosity comes back. The mind gains new tools — abstraction, self-reflection, counterfactual thinking. Teenagers start asking deeper questions. Not because someone told them to, but because their new hardware supports it.
 
 But the timing is unfortunate. Just as the mind opens, the self hardens.
 
-Now curiosity isn’t just risky — it’s expensive. The questions you really want to ask might make you look weird. Or lost. Or uncool.
+Now curiosity isn’t just risky — it’s expensive. The questions you really want to ask might make you look weird. Or lost. Or wrong. The cost of not knowing gets higher.
 
 So most people stop. They don’t renounce curiosity. They just redirect it. Toward school. Status. Strategy. The kind of knowing that earns points.
 
 It’s not stupidity. It’s adaptation.
 
-People don’t stop being curious because they lose the ability. They stop because it becomes painful.
-
-Real curiosity threatens things. It disrupts beliefs. It exposes gaps. It makes people say “I don’t know,” which adults are trained to avoid.
+People don’t stop being curious because they lose the ability. They stop because it becomes dangerous. Real curiosity threatens things. It disrupts beliefs. It exposes gaps. It makes people say “I don’t know,” which adults are trained to avoid.
 
 And so the mind shifts. From exploring to optimizing. From wondering to knowing. From trying things to getting things right.
 
-The drive to understand doesn’t vanish. It just gets put to work — toward career, credibility, control.
+The drive to understand doesn’t vanish. It just gets put to work — toward career, credibility, control. The questions don’t go away. They get safer. Smaller. More convenient.
 
-You can feel it in conversation. Someone knows a lot, but they’re not asking. They’re protecting. Managing. Maintaining a coherent self.
-
-And that’s what curiosity can’t survive: the need to be consistent.
-
-You can be smart without being curious. In fact, being smart makes it easier to avoid curiosity. You can build models fast, defend your views, win arguments — all without questioning your starting point.
+You can be smart without being curious. In fact, being smart makes it easier to avoid curiosity. You can build models fast, defend your views, win arguments — all without ever questioning your starting point.
 
 Curiosity isn’t intelligence. It’s what you do with intelligence when you’re not afraid.
 
-Most adults aren’t curious because they’re scared of what curiosity might unearth. Not consciously. Just structurally. They’ve built lives that depend on knowing — or appearing to.
+And here’s the thing we rarely admit: most adults aren’t curious because they’ve built lives — and selves — that can’t afford to be questioned.
 
-So they ask fewer questions. And when they do, the questions serve a purpose. They’re safe. Bounded. Answerable.
+The more tightly built your identity, the less room there is for true curiosity — because asking the wrong question might collapse the whole frame.
 
-What gets lost is the other kind of question — the one you ask even if it makes you look foolish, or lost, or alone.
+That’s the real danger. Not that people can’t think, but that they’ve arranged their inner world so carefully that thinking too freely would tear through it.
 
-This isn’t just a personal failing. The systems we build don’t reward curiosity. They reward predictability.
+This isn’t just a personal habit. It’s a cultural pattern. The systems we build reward alignment, not inquiry. Predictability, not disruption.
 
-In school, it’s easier to grade answers than questions. In work, it’s easier to manage people who don’t challenge assumptions. In culture, it’s easier to like things than to explore why you like them.
+In school, it’s easier to grade answers than questions. In work, it’s easier to manage people who don’t challenge assumptions. In culture, it’s easier to follow trends than to ask why they exist.
 
-The message is clear: curiosity is a nice phase, but at some point, it’s time to get serious. Get efficient. Get aligned.
+So curiosity doesn’t die. It gets buried. Under performance. Under fear. Under the need to be coherent.
 
-Curiosity doesn’t die. It gets buried.
+But some people find it again.
 
-Some people don’t lose it. Or they lose it and get it back.
+Usually not by accident. Something breaks. A plan fails. A belief falls apart. And in the silence that follows, the old questions return — but this time without apology.
 
-Usually not by accident. Something happens. They read the right book. Talk to the right person. Or something falls apart — a job, a belief, a plan — and in the space that opens, the old questions come back.
-
-Not always in words. Sometimes it’s just the feeling that the world is bigger again. That the maps were partial. That you’re allowed to look around.
+Not all at once. Sometimes it starts with noticing. That the world feels bigger again. That your map was too clean. That you’re allowed to look around.
 
 What matters isn’t intelligence. It’s structure.
 
-A mind that can tolerate contradiction. A life where being wrong isn’t punished. A sense of self that doesn’t depend on always being certain.
+A mind that can tolerate contradiction. A self that won’t collapse when surprised. A life where not knowing isn’t punished.
 
-That’s where curiosity lives — in the space between not knowing and still wanting to know.
+That’s where curiosity lives. In the space between not knowing and still wanting to know — even if the answer might change everything.
 
-We begin curious. Then the world teaches us to be careful.
+We begin curious. Then we build things to protect ourselves from not knowing.
 
-Most people learn the lesson too well. They grow up. Get smart. Stay safe. And forget how to wonder.
+But some of us come back. Some loosen the structure. Let the questions in.
 
-But some don’t. Some remember. Or relearn.
+They’re not just more informed.
 
-And they’re not just more informed. They’re more alive.
+They’re freer.
