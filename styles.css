@@ -6,21 +6,33 @@ body {
 
 .container {
   display: flex;
-  max-width: 1000px;
-  margin: 20px auto;
-  gap: 60px; /* space between columns */
-  padding: 0 20px;
+  min-height: 100vh;
 }
 
+/* Sidebar fixed to the left, always visible */
 .left-column {
-  width: 180px;
-  flex-shrink: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #f9f9f9;
+  padding: 20px;
+  box-sizing: border-box;
+  border-right: 1px solid #ddd;
 }
 
+/* Essay area shifted to the right, content centered */
 .right-column {
-  flex: 1;
+  margin-left: 220px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: calc(100% - 220px);
+  padding: 40px 20px;
+  box-sizing: border-box;
 }
-
 
 p {
   font-size: 20px; /* Adjust to your desired size */
@@ -53,7 +65,8 @@ a:hover {
 }
 
 #essayContent {
-  margin-top: 20px;
+  max-width: 700px;
+  width: 100%;
 }
 
 /* Style for essay content converted from Markdown */
