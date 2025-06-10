@@ -14,11 +14,14 @@ body {
 .left-column {
   flex: 1;
   padding-right: 20px;
+  border-right: 1px solid #ccc;
 }
 
 .right-column {
   flex: 2;
+  padding-left: 20px;
 }
+
 
 p {
   font-size: 20px; /* Adjust to your desired size */
@@ -33,6 +36,7 @@ h2 {
 ul {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 li {
@@ -42,6 +46,7 @@ li {
 a {
   color: #333;
   text-decoration: none;
+  font-size: 1.1em;
 }
 
 a:hover {
@@ -104,6 +109,12 @@ a:hover {
   color: #666;
   font-style: italic;
   margin-top: 0.5em;
+}
+
+#essayContent h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-family: Georgia, serif;
 }
 
 
