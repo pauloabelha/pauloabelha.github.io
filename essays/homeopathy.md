@@ -12,7 +12,7 @@ I used to think evidence could unravel a contradiction — that it was like a kn
 
 She’d always supported science. She trusted research, followed evidence, defended vaccines. And yet, for years, she also believed in homeopathy — despite the broad scientific consensus against it.
 
-In many cultures, homeopathy doesn’t *feel* unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence.
+In many cultures, homeopathy doesn’t feel unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence.
 
 Durig our conversations, I brought the conflict up a few times — how homepathy defies science, how most serious institutions now treat it as pseudoscience. To me, there was a crisp contradiction between current scientific knowledge and homeopathy. In her mind, there was none. Our discussions made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
