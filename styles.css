@@ -1,47 +1,56 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0 10px; /* adds horizontal breathing room on small screens */
+  padding: 0;
 }
 
+/* Layout */
 .container {
   display: flex;
   min-height: 100vh;
 }
 
-/* Sidebar fixed to the left, always visible */
+/* Sidebar stays fixed and always visible */
 .left-column {
   position: fixed;
   top: 0;
   left: 0;
-  width: 220px;
+  width: 240px;
   height: 100vh;
   overflow-y: auto;
   background-color: #f9f9f9;
+  border-right: 1px solid #ddd;
   padding: 20px;
   box-sizing: border-box;
-  border-right: 1px solid #ddd;
 }
 
-/* Essay area shifted to the right, content centered */
+/* Main content centered */
 .right-column {
-  margin-left: 220px;
+  margin-left: 240px;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  width: calc(100% - 220px);
   padding: 40px 20px;
+  width: calc(100% - 240px);
   box-sizing: border-box;
 }
 
+#essayContent {
+  max-width: 700px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* Typography */
 p {
-  font-size: 20px; /* Adjust to your desired size */
-  line-height: 1.6; /* Optionally set a line height for readability */
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 12px;
 }
 
 h2 {
   border-bottom: 2px solid #333;
   padding-bottom: 5px;
+  margin-top: 0;
 }
 
 ul {
@@ -64,12 +73,7 @@ a:hover {
   text-decoration: underline;
 }
 
-#essayContent {
-  max-width: 700px;
-  width: 100%;
-}
-
-/* Style for essay content converted from Markdown */
+/* Markdown content styles */
 #essayContent h1 {
   font-size: 24px;
   margin-bottom: 10px;
@@ -85,10 +89,6 @@ a:hover {
   margin-bottom: 6px;
 }
 
-#essayContent p {
-  margin-bottom: 12px;
-}
-
 #essayContent li {
   margin-bottom: 8px;
 }
@@ -102,6 +102,7 @@ a:hover {
   margin-bottom: 20px;
 }
 
+/* Image styling */
 #essayContent .essay-image {
   text-align: center;
   margin-bottom: 1.5em;
@@ -113,7 +114,7 @@ a:hover {
   height: auto;
   display: block;
   margin: 0 auto;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* add this */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 #essayContent .essay-image .caption {
@@ -122,10 +123,3 @@ a:hover {
   font-style: italic;
   margin-top: 0.5em;
 }
-
-
-
-
-
-
-
