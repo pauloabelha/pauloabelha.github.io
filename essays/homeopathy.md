@@ -1,12 +1,7 @@
-<p align="center">
-  <img 
-    src="https://pauloabelha.github.io/images/Henri_Rousseau_The_Dream.jpg" 
-    alt="Henri Rousseau - The Dream" 
-    style="max-width: 900px; width: 100%; height: auto; display: block; margin: 0 auto;" />
-</p>
-<p style="text-align: center; font-size: 0.9em; color: #666;">
-  *Henri Rousseau,* <em>The Dream</em> (1910)
-</p>
+<div class="essay-image">
+  <img src="https://pauloabelha.github.io/images/Henri_Rousseau_The_Dream.jpg" alt="Henri Rousseau - The Dream" />
+  <p class="caption">*Henri Rousseau, The Dream (1910)*</p>
+</div>
 
 
 # Homeopathy and Other Species
