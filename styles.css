@@ -123,3 +123,32 @@ a:hover {
   font-style: italic;
   margin-top: 0.5em;
 }
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .left-column {
+    position: static;
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+
+  .right-column {
+    margin-left: 0;
+    width: 100%;
+    padding: 20px;
+  }
+
+  #essayContent {
+    max-width: 100%;
+  }
+
+  #essayContent .essay-image img {
+    max-width: 100%;
+  }
+}
