@@ -3,14 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <title>Redirecting…</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
   <script>
-    // Save the requested path
-    sessionStorage.setItem("redirectPath", window.location.pathname);
-    // Redirect to root
+    // Save the original path (including any query/hash)
+    sessionStorage.setItem("redirectPath", location.pathname + location.search + location.hash);
+    // Redirect to homepage, where your app's JS will read from sessionStorage
     window.location.replace("/");
   </script>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      text-align: center;
+      padding: 2em;
+      color: #444;
+    }
+  </style>
 </head>
 <body>
-  <p>Redirecting…</p>
+  <h1>Redirecting…</h1>
+  <p>If you're not redirected automatically, <a href="/">click here</a>.</p>
 </body>
 </html>
