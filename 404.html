@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Redirecting…</title>
   <script>
-    const redirectPath = window.location.pathname;
-    sessionStorage.setItem("redirectPath", redirectPath);
+    // Save the requested path
+    sessionStorage.setItem("redirectPath", window.location.pathname);
+    // Redirect to root
     window.location.replace("/");
   </script>
 </head>
