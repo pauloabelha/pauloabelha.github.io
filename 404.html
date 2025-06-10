@@ -1,34 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Essays</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Redirecting…</title>
+  <script>
+    const redirectPath = window.location.pathname;
+    sessionStorage.setItem("redirectPath", redirectPath);
+    window.location.replace("/");
+  </script>
 </head>
 <body>
-  <div class="container">
-    <div class="left-column">
-      <h2>Essay Links</h2>
-      <ul id="essayLinks">
-        <li><a href="/hello" data-essay="hello.md">Hello</a></li>
-        <li><a href="/homeopathy" data-essay="homeopathy.md">Homeopathy</a></li>
-      </ul>
-    </div>
-    <div class="right-column">
-      <div id="essayContent">
-        <!-- Markdown content appears here -->
-      </div>
-    </div>
-  </div>
-  <!-- Scripts are loaded at the bottom of the body element -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script src="script.js"></script>
-
-  <footer style="text-align: center; color: #888; font-size: 0.9em; padding: 40px 0 20px;">
-    © Paulo Abelha — Essays · <a href="https://github.com/pauloabelha/pauloabelha.github.io" target="_blank">GitHub</a>
-  </footer>
-  
+  <p>Redirecting…</p>
 </body>
 </html>
-
