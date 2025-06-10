@@ -28,12 +28,20 @@ document.addEventListener('DOMContentLoaded', function () {
     if (essayFile) {
       loadEssay(essayFile);
     } else {
-      document.getElementById('essayContent').innerHTML = '<p>Select an essay from the left column to read.</p>';
+      document.getElementById('essayContent').innerHTML =
+        '<p>Select an essay from the left column to read.</p>';
     }
   }
 
-  // Initial load
-  navigateTo(window.location.pathname);
+  // ✅ Handle GitHub Pages redirect from 404.html
+  const savedPath = sessionStorage.getItem("redirectPath");
+  if (savedPath) {
+    sessionStorage.removeItem("redirectPath");
+    history.replaceState(null, "", savedPath);
+    navigateTo(savedPath);
+  } else {
+    navigateTo(window.location.pathname);
+  }
 
   // Handle browser navigation (back/forward)
   window.addEventListener('popstate', () => {
@@ -45,8 +53,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const link = event.target.closest('a');
     if (link && link.dataset.essay) {
       event.preventDefault();
-      const essayFile = link.dataset.essay;           // e.g., "homeopathy.md"
-      const slug = essayFile.replace(/\.md$/, '');    // e.g., "homeopathy"
+      const essayFile = link.dataset.essay;
+      const slug = essayFile.replace(/\.md$/, '');
       history.pushState(null, '', '/' + slug);
       loadEssay(essayFile);
     }
