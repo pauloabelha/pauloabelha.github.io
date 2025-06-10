@@ -8,7 +8,7 @@ She’d always supported science. She trusted research, followed evidence, defen
 
 In many cultures, homeopathy doesn’t *feel* unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence.
 
-I brought it up a few times — how it defies science, how most serious institutions now treat it as pseudoscience. To me, there was a crisp contradiction between current scientific knowledge and homeopathy. In her mind, there was none. Our discussions made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
+Durig our conversations, I brought the conflict up a few times — how homepathy defies science, how most serious institutions now treat it as pseudoscience. To me, there was a crisp contradiction between current scientific knowledge and homeopathy. In her mind, there was none. Our discussions made little difference. She didn’t argue, but she closed off — as if the conversation brushed against something she needed to keep balanced.
 
 I’d thought of beliefs too narrowly — as things that were probably true or false, more or less supported by evidence. I assumed weak beliefs would collapse when exposed. What I hadn’t grasped was how minds can shield them. Some beliefs survive not by strength, but by shelter.
 
