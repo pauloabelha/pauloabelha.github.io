@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Essays</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="left-column">
+      <h2>Essay Links</h2>
+      <ul id="essayLinks">
+      <li><a href="/hello">Hello</a></li>
+      <li><a href="/homeopathy">Homeopathy</a></li>
+    </ul>
+    </div>
+    <div class="right-column" id="essayContent">
+      <h2>Essay Content</h2>
+      <p>Select an essay from the left column to read.</p>
+    </div>
+  </div>
 
+  <!-- Scripts are loaded at the bottom of the body element -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
