@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://pauloabelha.github.io/images/Henri_Rousseau_The_Dream.jpg" alt="Henri Rousseau - The Dream" style="max-width: 100%; height: auto;" />
+</p>
+
 # Homeopathy and Other Species
 
 Contradictions fascinate me. We spot them all around us: in systems, institutions, and people. They settle in quietly, weaving themselves into the stories we live by. Left alone, they can last a lifetime. And trying to expose them rarely works — as I learned when a friend’s belief in homeopathy quietly collapsed.
