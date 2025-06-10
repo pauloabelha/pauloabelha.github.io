@@ -85,12 +85,12 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.essay-image {
+#essayContent .essay-image {
   text-align: center;
   margin-bottom: 1.5em;
 }
 
-.essay-image img {
+#essayContent .essay-image img {
   max-width: 900px;
   width: 100%;
   height: auto;
@@ -98,12 +98,14 @@ a:hover {
   margin: 0 auto;
 }
 
-.essay-image .caption {
+#essayContent .essay-image .caption {
   font-size: 0.9em;
   color: #666;
   font-style: italic;
   margin-top: 0.5em;
 }
+
+
 
 
 
