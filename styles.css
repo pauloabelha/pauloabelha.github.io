@@ -76,4 +76,21 @@ a:hover {
   margin-bottom: 8px;
 }
 
+#essayContent img {
+  display: block;
+  max-width: 900px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 16px;
+}
+
+#essayContent em {
+  display: block;
+  text-align: center;
+  color: #666;
+  font-size: 0.9em;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
 
