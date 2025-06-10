@@ -76,6 +76,15 @@ a:hover {
   margin-bottom: 8px;
 }
 
+#essayContent em {
+  display: block;
+  text-align: center;
+  color: #666;
+  font-size: 0.9em;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
 .essay-image {
   text-align: center;
   margin-bottom: 1.5em;
@@ -96,13 +105,7 @@ a:hover {
   margin-top: 0.5em;
 }
 
-#essayContent em {
-  display: block;
-  text-align: center;
-  color: #666;
-  font-size: 0.9em;
-  margin-top: -10px;
-  margin-bottom: 20px;
-}
+
+
 
 
