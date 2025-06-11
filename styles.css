@@ -178,16 +178,16 @@ footer {
   }
 }
 
-/* Dark Mode */
+/* 🌘 Dark Mode Refinement */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #111;
-    color: #ddd;
+    color: #eaeaea;
   }
 
   .left-column {
     background-color: #1a1a1a;
-    border-color: #333;
+    border-color: #2a2a2a;
   }
 
   .left-column a {
@@ -198,12 +198,19 @@ footer {
     color: #9ab4ff;
   }
 
-  #essayContent h1, #essayContent h2, #essayContent h3 {
-    color: #eee;
+  #essayContent h1,
+  #essayContent h2,
+  #essayContent h3 {
+    color: #f0f0f0;
   }
 
-  .caption, #essayContent em {
+  .caption,
+  #essayContent em {
     color: #aaa;
+  }
+
+  .essay-image img {
+    box-shadow: 0 6px 12px rgba(255, 255, 255, 0.04);
   }
 
   footer {
