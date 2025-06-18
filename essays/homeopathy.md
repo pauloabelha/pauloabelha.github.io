@@ -14,7 +14,7 @@ I used to think evidence could unravel a contradiction — that it was like a kn
 
 In many cultures, homeopathy doesn’t feel unscientific. It’s folded into formal medical systems, sometimes even recommended alongside scientific treatment. That may be why many people feel no internal conflict. Some see it not as pseudoscience, but as a knowledge system neglected by mainstream research. That belief can persist even in the face of evidence.
 
-I’d thought of beliefs too narrowly — as things that were probably true or false, more or less supported by evidence. I assumed weak beliefs would collapse when exposed. What I hadn’t grasped was how minds can shield them. Some beliefs survive not by strength, but by shelter.
+I’d thought of beliefs too narrowly — as things that were probably true or false, more or less supported by evidence. I assumed weak beliefs would collapse when exposed. That a clear contradiction would generate enough tension to demand being resolved. What I hadn’t grasped was how well minds can shield them. Some beliefs survive not by strength, but by shelter.
 
 Emotional attachments shape the willingness to let go of one belief over another. But I saw emotion as an enhancer or a blocker, nothing more. What I hadn’t considered was that contradictions can survive exposure because the landscape of a mind can shelter one idea from another.
 
