@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="" alt= style="max-width: 640px; width: 100%; height: auto;"/>
-</p>
-
 <div class="essay-image">
-  <img src="[https://pauloabelha.github.io/images/Henri_Rousseau_The_Dream.jpg](https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lincolnglenn/images/view/8ea85e7f98019b5b1fbcda23fff6618ej/lincolnglenn-gerome-kamrowski-untitled-circa-1945.jpg)" alt="Gerome Kamrowski,Untitled, circa 1945" />
+  <img src="https://pauloabelha.github.io/images/Henri_Rousseau_The_Dream.jpg](https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lincolnglenn/images/view/8ea85e7f98019b5b1fbcda23fff6618ej/lincolnglenn-gerome-kamrowski-untitled-circa-1945.jpg)" alt="Gerome Kamrowski,Untitled, circa 1945" />
   <p class="caption">*Gerome Kamrowski, Untitled, circa 1945*</p>
 </div>
 
