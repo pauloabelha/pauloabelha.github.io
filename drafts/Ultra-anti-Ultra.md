@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://static1.1stdibsimages.com/archivesE/upload/1523/1802/15231802_l.jpg"](https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lincolnglenn/images/view/8ea85e7f98019b5b1fbcda23fff6618ej/lincolnglenn-gerome-kamrowski-untitled-circa-1945.jpg) alt="Gerome Kamrowski,Untitled, circa 1945" style="max-width: 640px; width: 100%; height: auto;"/>
+  <img src="https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lincolnglenn/images/view/8ea85e7f98019b5b1fbcda23fff6618ej/lincolnglenn-gerome-kamrowski-untitled-circa-1945.jpg" alt="Gerome Kamrowski,Untitled, circa 1945" style="max-width: 640px; width: 100%; height: auto;"/>
 </p>
 
 # The Ultra and the Anti-Ultra
