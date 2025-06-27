@@ -1,4 +1,4 @@
-<div class="essay-image" style="max-width: 500px; margin: auto;">
+<div class="essay-image" style="max-width: 400px; margin: auto;">
   <img src="https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lincolnglenn/images/view/8ea85e7f98019b5b1fbcda23fff6618ej/lincolnglenn-gerome-kamrowski-untitled-circa-1945.jpg" alt="Gerome Kamrowski, Untitled, circa 1945" style="width: 100%; height: auto; display: block;" />
   <p class="caption" style="text-align: center; font-style: italic; margin-top: 0.5em;">Gerome Kamrowski, <strong>Untitled</strong>, circa 1945</p>
 </div>
