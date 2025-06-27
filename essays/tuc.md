@@ -1,9 +1,9 @@
-<div class="essay-image">
-  <img src="https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lincolnglenn/images/view/8ea85e7f98019b5b1fbcda23fff6618ej/lincolnglenn-gerome-kamrowski-untitled-circa-1945.jpg" alt="Gerome Kamrowski,Untitled, circa 1945" />
-  <p class="caption">*Gerome Kamrowski, Untitled, circa 1945*</p>
+<div class="essay-image" style="max-width: 700px; margin: auto;">
+  <img src="https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lincolnglenn/images/view/8ea85e7f98019b5b1fbcda23fff6618ej/lincolnglenn-gerome-kamrowski-untitled-circa-1945.jpg" alt="Gerome Kamrowski, Untitled, circa 1945" style="width: 100%; height: auto; display: block;" />
+  <p class="caption" style="text-align: center; font-style: italic; margin-top: 0.5em;">Gerome Kamrowski, <strong>Untitled</strong>, circa 1945</p>
 </div>
 
-# The Ultra and Contra
+# The Ultra and the Contra
 
 People say you can become anything. That you're clay awaiting shape, free to dream your way into the grandest silhouette imaginable. But that’s a comforting abstraction. You are not blank. You are bent. You are already in motion, already shaped by the curve of your own trajectory—your temperament, your history, your inclinations and resistances. The arc of your life isn’t a line drawn from scratch, but a branch extending from a living trunk.
 
@@ -11,7 +11,7 @@ What you can become isn’t arbitrary. It is constrained—but not in a way that
 
 The version of you that honors this inner shape—that metabolizes your raw material into something aligned, fluent, and real—that is what I call the **Ultra**.
 
-The Ultra is not about admiration or raw talent. It is about **coherence and assertiveness**. A certain attunement. A harmony between who you are, what you do, and how you move. It's a state where your voice and your structure no longer contradict each other. Where your inner compass stops spinning and starts pointing. The Ultra is not the version of you who wins. It’s the one who *holds together*.
+The Ultra is not about admiration or raw talent. It is about **coherence and assertiveness**. A certain attunement. A harmony between who you are, what you do, and how you move. It's a state where your voice and your structure no longer contradict each other. Where your inner compass stops spinning and starts pointing. The Ultra is not the version of you who wins. It’s the one who **holds together**.
 
 There is a kind of silence that comes when you're there. Not absence, but clarity. Not peace as in stillness, but peace as in absence of fracture. Your thoughts arrive whole. Your actions resolve. You stop trying on selves and begin to wear one that breathes with you.
 
