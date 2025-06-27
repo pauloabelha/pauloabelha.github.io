@@ -21,7 +21,7 @@ The Contra wants too much at once, or too little of the right thing. They admire
 
 And so they drift—not from weakness, but from resistance to integration. They fear the cost of becoming specific, because specificity ends the fantasy of being anything. But specificity also generates fruit. The Contra consumes the world but never commits to shaping it. And so they remain expansive, but hollow.
 
-To become the Ultra requires a kind of sacrifice—not of dreams, but of false multiplicity. You begin to say no. You let go of flattering misfits. You prune the masks, the poses, the borrowed fluencies. You begin to work with your constraints instead of against them. Not because you’re weak, but because you’re *willing*.
+To become the Ultra requires a kind of sacrifice—not of dreams, but of false multiplicity. You begin to say no. You let go of flattering misfits. You prune the masks, the poses, the borrowed fluencies. You begin to work with your constraints instead of against them. Not because you’re weak, but because you’re willing.
 
 You are no longer trying to become the most admired version of a stranger. You are trying to become the deepest version of yourself.
 
@@ -31,7 +31,7 @@ It is not freedom that defines the Ultra. It is form. And the willingness to tun
 
 Most people don’t make that choice—not out of laziness, but because integration costs. It asks for discipline, yes, but also honesty. It demands a ruthless inventory of what fits and what merely flatters. It requires the collapse of every escape hatch that once kept you comfortably diverse and uncommitted.
 
-But those who do cross that threshold often don’t look louder. They look *quieter*. There is less tension in their voice. Less apology. Less show.
+But those who do cross that threshold often don’t look louder. They look quieter. There is less tension in their voice. Less apology. Less show.
 
 They begin to live from within.
 
