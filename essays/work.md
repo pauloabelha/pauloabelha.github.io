@@ -19,9 +19,10 @@ I’m available for selected writing and research projects that require clarity 
 ## 📬 Contact
 
 Feel free to get in touch about your project:  
-📧 [paulo@email.com](mailto:paulo@email.com)
+📧 <span id="email-slot">[loading email…]</span>
 
-I respond to serious inquiries within 48 hours.
+
+I respond to serious inquiries within 72 hours.
 
 ---
 
