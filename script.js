@@ -7,6 +7,14 @@ document.addEventListener('DOMContentLoaded', function () {
         const target = document.getElementById('essayContent');
         if (xhr.status === 200) {
           target.innerHTML = marked.parse(xhr.responseText);
+
+          // After markdown is rendered, insert obfuscated email
+          const emailSlot = document.getElementById('email-slot');
+          if (emailSlot) {
+            const user = 'paulo';
+            const domain = 'email.com';
+            emailSlot.innerHTML = `<a href="mailto:${user}@${domain}">${user}@${domain}</a>`;
+          }
         } else {
           target.innerHTML = '<p>Error loading the essay.</p>';
         }
