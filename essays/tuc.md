@@ -5,9 +5,6 @@
 
 # The Ultra and the Contra
 
-# The Ultra and the Contra  
-*inspired by Gerome Kamrowski, Untitled, circa 1945*
-
 People say you can become anything. That you’re clay awaiting shape, free to dream your way into the grandest silhouette imaginable. But that’s a comforting abstraction. You are not blank. You are bent. You are already in motion, already shaped by the curve of your own trajectory—your temperament, your history, your inclinations and resistances. The arc of your life isn’t a line drawn from scratch, but a branch extending from a living trunk.
 
 What you can become isn’t arbitrary. It is constrained—but not in a way that impoverishes. Rather, the constraints give your potential form. Not every seed thrives in every soil, but when one does, it does so with a coherence that perfection can’t touch. Coherence has a kind of beauty that transcends polish. It is not symmetrical. It is alive.
