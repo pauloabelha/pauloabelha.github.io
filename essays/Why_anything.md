@@ -10,7 +10,7 @@ Watch a baby play peek-a-boo. When you hide your face, you vanish. When you retu
 
 By age three, children ask where the dog went when it disappears around a corner. Or whether the moon is following the car. Their questions stay close to the concrete. Presence, absence, cause, continuation. “Nothing” isn’t a possibility. It hasn’t been built yet.
 
-Because that’s the truth: 'nothing' isn’t something we begin with. It’s something we have to invent. It takes distance from the world to even imagine its absence. The question *“why anything?”* only emerges once the mind becomes complex enough to simulate the removal of everything—and detached enough to mistake that simulation for an insight.
+Because that’s the truth: 'nothing' isn’t something we begin with. It’s something we have to invent. It takes distance from the world to even imagine its absence. The question "why anything?” only emerges once the mind becomes complex enough to simulate the removal of everything—and detached enough to mistake that simulation for an insight.
 
 And when it happens, it doesn’t feel like a gap in knowledge. It feels like a boundary in reality. The mind hits the edge of its own map and thinks it’s found a tear in the world.
 
