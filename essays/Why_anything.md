@@ -1,0 +1,36 @@
+# Why Anything
+
+The first time the question hit me—*why is there anything rather than nothing?*—I was nineteen, lying in bed, and the world suddenly felt absurd. Not strange like a mystery. Strange like a mistake. It wasn’t a thought I had. It was something that happened to me. A drop. Like the floor of reality had briefly gone transparent.
+
+Years later, a logic professor told me this question had once kept him awake at night too. That made sense. It feels like the kind of question that should come first. The foundation stone. The origin point for real thinking.
+
+But it doesn’t come first. It arrives late—after sensation, memory, object permanence, language, cause, pattern, symbol. It’s not the ground floor of thought. It’s a penthouse hallucination. The view you get once abstraction loops.
+
+Watch a baby play peek-a-boo. When you hide your face, you vanish. When you return, you exist again. By ten months, they’ve cracked the code: you were there all along, just hidden. That’s object permanence—learning that things persist even when unseen.
+
+By age three, children ask where the dog went when it disappears around a corner. Or whether the moon is following the car. Their questions stay close to the concrete. Presence, absence, cause, continuation. “Nothing” isn’t a possibility. It hasn’t been built yet.
+
+Because that’s the truth: *nothing* isn’t something we begin with. It’s something we have to invent. It takes distance from the world to even imagine its absence. The question *“why anything?”* only emerges once the mind becomes complex enough to simulate the removal of everything—and detached enough to mistake that simulation for an insight.
+
+And when it happens, it doesn’t feel like a gap in knowledge. It feels like a boundary in reality. The mind hits the edge of its own map and thinks it’s found a tear in the world.
+
+But we can’t get outside the architecture that makes questions possible. The very tools we use to reach for an answer are the ones generating the illusion of a missing one. We treat the question like a crack in the wall of existence, but it may just be where our models start folding in.
+
+That doesn’t make the question trivial. It makes it diagnostic. It doesn’t tell us about the origin of reality—it tells us something about the shape of cognition. The question isn’t meaningless. It’s the echo of the scaffolding, bending under its own weight.
+
+We want it to lead somewhere final. To a first cause that doesn’t need a cause. A reason that ends the recursion. But it never does. Every answer rests on concepts that rest on other concepts. Eventually, we reach for words that feel like full stops—God, Truth, Being. But those aren’t conclusions. They’re interruptions. Places where the chain breaks because the mind is tired of holding it.
+
+And maybe the deeper puzzle isn’t that “nothing” is a construct—though it is—but that anything exists capable of constructing it. The real mystery isn’t conceptual. It’s biological. How does matter come to model its own absence?
+
+This is where the evolutionary lens makes the question stranger, not simpler. Our minds evolved to track objects, avoid predators, predict outcomes. Not to contemplate ontological ground states. And yet here we are—nervous systems shaped by selective pressure, now staring at the conditions of their own possibility.
+
+The question didn’t fall from the sky. It emerged. From a system embedded in the world, shaped by it, slowly developing enough recursion to hallucinate a gap where none existed—and call it mystery.
+
+We think we’re descending. Peeling back the layers. Approaching bedrock. But we’re building—laying down more scaffolding and mistaking it for depth. What looks like excavation is just construction in reverse.
+
+And yet the illusion reveals something real. Because it shows us where the system exceeds its own grasp. Where thinking becomes self-aware, not just of content, but of the conditions that make thought possible.
+
+That’s not a flaw. It’s the threshold. Not where explanation ends, but where reflection begins.
+
+The question didn’t come from outside the world.  
+It came from within.  
