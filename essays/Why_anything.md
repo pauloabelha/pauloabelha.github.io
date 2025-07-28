@@ -1,6 +1,6 @@
 # Why Anything
 
-The first time the question hit me-*why is there anything rather than nothing?*-I was nineteen, lying in bed, and the world suddenly felt absurd. Not strange like a mystery. Strange like a mistake. It wasn’t a thought I had. It was something that happened to me. A drop. Like the floor of reality had briefly gone transparent.
+The first time the question hit me-why is there anything rather than nothing?-I was nineteen, lying in bed, and the world suddenly felt absurd. Not strange like a mystery. Strange like a mistake. It wasn’t a thought I had. It was something that happened to me. A drop. Like the floor of reality had briefly gone transparent.
 
 Years later, a logic professor told me this question had once kept him awake at night too. That made sense. It feels like the kind of question that should come first. The foundation stone. The origin point for real thinking.
 
